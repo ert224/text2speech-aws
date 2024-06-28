@@ -19,7 +19,7 @@ def format_strings_to_json():
 
     formatted_json = {"intrepid": formatted_data}
 
-    with open("second.json", "w", encoding="utf-8") as output_file:
+    with open("./editions/second.json", "w", encoding="utf-8") as output_file:
         output_file.write('{"intrepid": [\n')
         for i, item in enumerate(formatted_json["intrepid"]):
             if i < len(formatted_json["intrepid"]) - 1:
@@ -40,7 +40,7 @@ def format_strings_to_json():
 
     formatted_json = {"valiant": formatted_data}
 
-    with open("third.json", "w", encoding="utf-8") as output_file:
+    with open("./editions/third.json", "w", encoding="utf-8") as output_file:
         output_file.write('{"valiant": [\n')
         for i, item in enumerate(formatted_json["valiant"]):
             if i < len(formatted_json["valiant"]) - 1:
@@ -61,23 +61,26 @@ def switch_times_intrepid(first_json, second_json, intrepid_file):
     with open(second_json, 'r', encoding="utf-8") as file:
         new_times = json.load(file)["intrepid"]
 
-    for item, new_time in zip(data["daring"], new_times):
-        item["time"] = new_time["time"]
+    # Create a dictionary for quick lookup of new times by value
+    new_times_dict = {item["value"]: item["time"] for item in new_times}
+
+    # Update the times in the data from the first JSON
+    for item in data["daring"]:
+        if item["value"] in new_times_dict:
+            item["time"] = new_times_dict[item["value"]]
 
     with open(intrepid_file, 'w', encoding="utf-8") as outfile:
-        outfile.write('{"intrepid": [\n')
+        outfile.write('"intrepid": [\n')
 
         # Write each item to the file, except the last, with a comma
         for item in data["daring"][:-1]:
             outfile.write(json.dumps(item, separators=(',', ': ')) + ',\n')
+            
         # Write the last item without a comma
         if data["daring"]:  # Check if the list is not empty to avoid IndexError
             outfile.write(json.dumps(data["daring"][-1], separators=(',', ': ')))
-        outfile.write('\n]}\n')
+        outfile.write('\n]\n')
 
-    # with open(intrepid_file, 'w', encoding="utf-8") as outfile:
-    #     for item in data["daring"]:
-    #         outfile.write(json.dumps(item, separators=(',', ': ')) + ',\n')
 
 def switch_times_valiant(first_json, second_json, valiant_file):
     with open(first_json, 'r', encoding="utf-8") as file:
@@ -86,40 +89,40 @@ def switch_times_valiant(first_json, second_json, valiant_file):
     with open(second_json, 'r', encoding="utf-8") as file:
         new_times = json.load(file)["valiant"]
 
-    for item, new_time in zip(data["daring"], new_times):
-        item["time"] = new_time["time"]
+    # Create a dictionary for quick lookup of new times by value
+    new_times_dict = {item["value"]: item["time"] for item in new_times}
 
-    # with open(valiant_file, 'w', encoding="utf-8") as outfile:
-    #     for item in data["daring"]:
-    #         outfile.write(json.dumps(item, separators=(',', ': ')) + ',\n')
- 
+    # Update the times in the data from the first JSON
+    for item in data["daring"]:
+        if item["value"] in new_times_dict:
+            item["time"] = new_times_dict[item["value"]]
+
     with open(valiant_file, 'w', encoding="utf-8") as outfile:
-        outfile.write('{"valiant": [\n')
+        outfile.write('"valiant": [\n')
 
         # Write each item to the file, except the last, with a comma
         for item in data["daring"][:-1]:
-            print('Printing')
-            print(item)
             outfile.write(json.dumps(item, separators=(',', ': ')) + ',\n')
         # Write the last item without a comma
         if data["daring"]:  # Check if the list is not empty to avoid IndexError
             outfile.write(json.dumps(data["daring"][-1], separators=(',', ': ')))
             
-        outfile.write('\n]}\n')
+        outfile.write('\n]\n')
 
 def main():
     # change strings into json
+    # read aws files and change them to json for parsing and later changing element
     format_strings_to_json()
     
     # Now
     # input files names
-    first_json_file = "first.json"
-    second_json_file = "second.json"
-    third_json_file = "third.json"
+    first_json_file = "./editions/edit.json"
+    second_json_file = "./editions/second.json"
+    third_json_file = "./editions/third.json"
 
     # output file names
-    intrepid_json_file = "intrepid.json"
-    valiant_json_file = "valiant.json"
+    intrepid_json_file = "./formatedJSON/intrepid.json"
+    valiant_json_file = "./formatedJSON/valiant.json"
 
     switch_times_intrepid(first_json_file, second_json_file, intrepid_json_file)
 
