@@ -3,10 +3,10 @@ import os
 
 filename = os.environ.get('filename')
 def format_strings_to_json():
-    with open("./speechJson/"+filename+"_intrepid.json", "r", encoding="utf-8") as file:
+    with open("./aws_downloads/"+filename+"_intrepid.json", "r", encoding="utf-8") as file:
         intrepid_string = file.read()
 
-    with open("./speechJson/"+filename+"_valiant.json", "r", encoding="utf-8") as file:
+    with open("./aws_downloads/"+filename+"_valiant.json", "r", encoding="utf-8") as file:
         valiant_string = file.read()
 
     # INTREPID FORMATTING
@@ -118,13 +118,13 @@ def main():
     
     # Now
     # input files names
-    first_json_file = "./formatedJSON/daring.json"
+    first_json_file = "./index_format/daring.json"
     second_json_file = "./editions/second.json"
     third_json_file = "./editions/third.json"
 
     # output file names
-    intrepid_json_file = "./formatedJSON/intrepid.json"
-    valiant_json_file = "./formatedJSON/valiant.json"
+    intrepid_json_file = "./index_format/intrepid.json"
+    valiant_json_file = "./index_format/valiant.json"
 
     switch_times_intrepid(first_json_file, second_json_file, intrepid_json_file)
 

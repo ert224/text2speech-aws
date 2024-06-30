@@ -3,7 +3,7 @@ import os
 
 def rm_index(filename):
     # Read the JSON file with index parameters
-    input_filepath = os.path.join("./formatedJSON", f"{filename}.json")
+    input_filepath = os.path.join("./index_format", f"{filename}.json")
     
     # Check if the file exists
     if not os.path.exists(input_filepath):

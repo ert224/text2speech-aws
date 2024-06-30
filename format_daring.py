@@ -7,7 +7,7 @@ if filename is None:
     raise ValueError("Environment variable 'filename' is not set.")
 
 # Read the original JSON file
-input_filepath = os.path.join("./speechJson", f"{filename}_daring.json")
+input_filepath = os.path.join("./aws_downloads", f"{filename}_daring.json")
 with open(input_filepath, "r", encoding="utf-8") as file:
     original_string = file.read()
 
@@ -36,7 +36,7 @@ with open(output_filepath1, "w", encoding="utf-8") as output_file:
     output_file.write(']}\n')
 
 # Write to the second output file
-output_filepath2 = "./formatedJSON/daring.json"
+output_filepath2 = "./index_format/daring.json"
 with open(output_filepath2, "w", encoding="utf-8") as output_file:
     output_file.write('{"daring": [\n')
     for i, item in enumerate(formatted_json["daring"]):

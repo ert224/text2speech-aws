@@ -42,11 +42,9 @@
             {"time": 4255,"type": "word","value": "for","element": "narrate-1-quiz"},
             {"time": 4392,"type": "word","value": "identity","element": "narrate-1-quiz"},
             {"time": 4867,"type": "word","value": "theft","element": "narrate-1-quiz"},
-    
             {"time": 5835,"type": "word","value": "A.","element": "narrate-2-quiz"},
             {"time": 5972,"type": "word","value": "Dietary","element": "narrate-2-quiz"},
             {"time": 6560,"type": "word","value": "Preferences","element": "narrate-2-quiz"},
-    
             {"time": 7915,"type": "word","value": "B.","element": "narrate-3-quiz"},
             {"time": 8052,"type": "word","value": "Mother's","element": "narrate-3-quiz"},
             {"time": 8490,"type": "word","value": "maiden","element": "narrate-3-quiz"},
