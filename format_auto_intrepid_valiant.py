@@ -12,10 +12,11 @@ def format_strings_to_json():
     # INTREPID FORMATTING
     intrepid_data = [json.loads(line) for line in intrepid_string.strip().split('\n') if line.strip()]
 
-    formatted_data = [{"time": entry["time"],
+    formatted_data = [{"index": idx,
+                        "time": entry["time"],
                        "type": entry["type"],
                        "value": entry["value"],
-                       "element": "narrate-1-page"} for entry in intrepid_data]
+                       "element": "narrate-1-page"} for idx, entry in enumerate(intrepid_data)]
 
     formatted_json = {"intrepid": formatted_data}
 
@@ -33,10 +34,11 @@ def format_strings_to_json():
     # VALIANT FORMATTING
     valiant_data = [json.loads(line) for line in valiant_string.strip().split('\n') if line.strip()]
 
-    formatted_data = [{"time": entry["time"],
+    formatted_data = [{"index": idx,
+                       "time": entry["time"],
                        "type": entry["type"],
                        "value": entry["value"],
-                       "element": "narrate-1"} for entry in valiant_data]
+                       "element": "narrate-1"} for idx, entry in enumerate(valiant_data)]
 
     formatted_json = {"valiant": formatted_data}
 
@@ -62,15 +64,15 @@ def switch_times_intrepid(first_json, second_json, intrepid_file):
         new_times = json.load(file)["intrepid"]
 
     # Create a dictionary for quick lookup of new times by value
-    new_times_dict = {item["value"]: item["time"] for item in new_times}
+    new_times_dict = {item["index"]: item["time"] for item in new_times}
 
     # Update the times in the data from the first JSON
     for item in data["daring"]:
-        if item["value"] in new_times_dict:
-            item["time"] = new_times_dict[item["value"]]
+        if item["index"] in new_times_dict:
+            item["time"] = new_times_dict[item["index"]]
 
     with open(intrepid_file, 'w', encoding="utf-8") as outfile:
-        outfile.write('"intrepid": [\n')
+        outfile.write('{"intrepid": [\n')
 
         # Write each item to the file, except the last, with a comma
         for item in data["daring"][:-1]:
@@ -79,7 +81,7 @@ def switch_times_intrepid(first_json, second_json, intrepid_file):
         # Write the last item without a comma
         if data["daring"]:  # Check if the list is not empty to avoid IndexError
             outfile.write(json.dumps(data["daring"][-1], separators=(',', ': ')))
-        outfile.write('\n]\n')
+        outfile.write('\n]}\n')
 
 
 def switch_times_valiant(first_json, second_json, valiant_file):
@@ -90,15 +92,15 @@ def switch_times_valiant(first_json, second_json, valiant_file):
         new_times = json.load(file)["valiant"]
 
     # Create a dictionary for quick lookup of new times by value
-    new_times_dict = {item["value"]: item["time"] for item in new_times}
+    new_times_dict = {item["index"]: item["time"] for item in new_times}
 
     # Update the times in the data from the first JSON
     for item in data["daring"]:
-        if item["value"] in new_times_dict:
-            item["time"] = new_times_dict[item["value"]]
+        if item["index"] in new_times_dict:
+            item["time"] = new_times_dict[item["index"]]
 
     with open(valiant_file, 'w', encoding="utf-8") as outfile:
-        outfile.write('"valiant": [\n')
+        outfile.write('{"valiant": [\n')
 
         # Write each item to the file, except the last, with a comma
         for item in data["daring"][:-1]:
@@ -107,7 +109,7 @@ def switch_times_valiant(first_json, second_json, valiant_file):
         if data["daring"]:  # Check if the list is not empty to avoid IndexError
             outfile.write(json.dumps(data["daring"][-1], separators=(',', ': ')))
             
-        outfile.write('\n]\n')
+        outfile.write('\n]}\n')
 
 def main():
     # change strings into json
@@ -116,7 +118,7 @@ def main():
     
     # Now
     # input files names
-    first_json_file = "./editions/edit.json"
+    first_json_file = "./formatedJSON/daring.json"
     second_json_file = "./editions/second.json"
     third_json_file = "./editions/third.json"
 

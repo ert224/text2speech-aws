@@ -14,11 +14,12 @@ with open(input_filepath, "r", encoding="utf-8") as file:
 # Split the input string into individual JSON objects
 original_data = [json.loads(line) for line in original_string.strip().split('\n')]
 
-# Create a new list with modified elements
-formatted_data = [{"time": entry["time"],
+# Create a new list with modified elements, including an index
+formatted_data = [{"index": idx,
+                   "time": entry["time"],
                    "type": entry["type"],
                    "value": entry["value"],
-                   "element": "narrate-1-page"} for entry in original_data]
+                   "element": "narrate--quiz-3"} for idx, entry in enumerate(original_data)]
 
 # Create a dictionary with the new list
 formatted_json = {"daring": formatted_data}
@@ -35,7 +36,7 @@ with open(output_filepath1, "w", encoding="utf-8") as output_file:
     output_file.write(']}\n')
 
 # Write to the second output file
-output_filepath2 = "./editions/edit.json"
+output_filepath2 = "./formatedJSON/daring.json"
 with open(output_filepath2, "w", encoding="utf-8") as output_file:
     output_file.write('{"daring": [\n')
     for i, item in enumerate(formatted_json["daring"]):
@@ -45,4 +46,4 @@ with open(output_filepath2, "w", encoding="utf-8") as output_file:
             output_file.write('\t' + json.dumps(item, separators=(',', ': ')) + '\n')
     output_file.write(']}\n')
 
-print("Formatted JSON written to first.json and edit.json")
+print("Formatted JSON written to first.json and daring.json")
