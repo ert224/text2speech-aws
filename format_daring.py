@@ -19,7 +19,8 @@ formatted_data = [{"index": idx,
                    "time": entry["time"],
                    "type": entry["type"],
                    "value": entry["value"],
-                   "element": "narrate--quiz-3"} for idx, entry in enumerate(original_data)]
+                   "element": f"narrate--{filename}"
+                   } for idx, entry in enumerate(original_data)]
 
 # Create a dictionary with the new list
 formatted_json = {"daring": formatted_data}
