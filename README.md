@@ -26,7 +26,7 @@ Now run
 
 ```
 export filename={filename} 
-python format_daring.py 
+run_daring.sh
  # Ex. filename=intro 
  # i.e. it ignores the voice name attached to the file 
 ```
