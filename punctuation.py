@@ -1,4 +1,7 @@
-{"daring": [
+import json
+import re
+
+jsonString= [
 	{"index": 0,"time": 25,"type": "word","value": "Reflect","element": "narrate--reflection"},
 	{"index": 1,"time": 1130,"type": "word","value": "Take","element": "narrate--reflection"},
 	{"index": 2,"time": 1367,"type": "word","value": "a","element": "narrate--reflection"},
@@ -46,4 +49,31 @@
 	{"index": 44,"time": 16082,"type": "word","value": "by","element": "narrate--reflection"},
 	{"index": 45,"time": 16232,"type": "word","value": "someone","element": "narrate--reflection"},
 	{"index": 46,"time": 16582,"type": "word","value": "else","element": "narrate--reflection"}
-]}
+]
+
+# Input paragraph
+paragraph = """Reflect
+Take a moment to think about the following:
+
+1. Reflecting on how grandparent scams work, can you think of what personal information might be accessible about you online? Is it something you've shared yourself on social media platforms, or information shared about you by someone else?"""
+
+# Remove newlines and multiple white spaces
+clean_paragraph = re.sub(r'\s+', ' ', paragraph).strip()
+
+# Split the paragraph based on white spaces
+words = clean_paragraph.split(' ')
+
+# Print the result
+print(words)
+
+for i, item in enumerate(jsonString):
+    if item['value'] in words[i]:
+        item['value'] = words[i]
+
+print("\njsostr\n")
+# Convert the updated dictionary back to a JSON string
+updated_json_str = json.dumps(jsonString, indent=4)
+
+# Print the updated JSON string
+print(updated_json_str)
+print(jsonString)

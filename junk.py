@@ -1,85 +1,100 @@
-{"daring": [
-	{"index": 0,"time": 25,"type": "word","value": "Fake","element": "narrate-title-fake-websites"},
-	{"index": 1,"time": 325,"type": "word","value": "Websites","element": "narrate-title-fake-websites"},
+import json
+from boto3 import Session
 
-	{"index": 2,"time": 1904,"type": "word","value": "Fake","element": "narrate-3-fake-websites"},
-	{"index": 3,"time": 2204,"type": "word","value": "dating","element": "narrate-3-fake-websites"},
-	{"index": 4,"time": 2529,"type": "word","value": "sites","element": "narrate-3-fake-websites"},
-	{"index": 5,"time": 2892,"type": "word","value": "promise","element": "narrate-3-fake-websites"},
-	{"index": 6,"time": 3279,"type": "word","value": "the","element": "narrate-3-fake-websites"},
-	{"index": 7,"time": 3342,"type": "word","value": "perfect","element": "narrate-3-fake-websites"},
-	{"index": 8,"time": 3754,"type": "word","value": "match,","element": "narrate-3-fake-websites"},
-	{"index": 9,"time": 4392,"type": "word","value": "but","element": "narrate-3-fake-websites"},
-	{"index": 10,"time": 4504,"type": "word","value": "in","element": "narrate-3-fake-websites"},
-	{"index": 11,"time": 4617,"type": "word","value": "reality,","element": "narrate-3-fake-websites"},
-	{"index": 12,"time": 5404,"type": "word","value": "they","element": "narrate-3-fake-websites"},
-	{"index": 13,"time": 5504,"type": "word","value": "are","element": "narrate-3-fake-websites"},
-	{"index": 14,"time": 5617,"type": "word","value": "full","element": "narrate-3-fake-websites"},
-	{"index": 15,"time": 5904,"type": "word","value": "of","element": "narrate-3-fake-websites"},
-	{"index": 16,"time": 6004,"type": "word","value": "fake","element": "narrate-3-fake-websites"},
-	{"index": 17,"time": 6292,"type": "word","value": "accounts.","element": "narrate-3-fake-websites"},
+moduleID = "grandparent-narration/"
+folder = "techniques/"
+page = "types-3"
 
-	{"index": 18,"time": 7422,"type": "word","value": "To","element": "narrate-3-fake-websites"},
-	{"index": 19,"time": 7547,"type": "word","value": "access","element": "narrate-3-fake-websites"},
-	{"index": 20,"time": 8034,"type": "word","value": "these","element": "narrate-3-fake-websites"},
-	{"index": 21,"time": 8259,"type": "word","value": "sites,","element": "narrate-3-fake-websites"},
-	{"index": 22,"time": 8884,"type": "word","value": "you","element": "narrate-3-fake-websites"},
-	{"index": 23,"time": 9059,"type": "word","value": "often","element": "narrate-3-fake-websites"},
-	{"index": 24,"time": 9422,"type": "word","value": "have","element": "narrate-3-fake-websites"},
-	{"index": 25,"time": 9609,"type": "word","value": "to","element": "narrate-3-fake-websites"},
-	{"index": 26,"time": 9709,"type": "word","value": "pay","element": "narrate-3-fake-websites"},
-	{"index": 27,"time": 9947,"type": "word","value": "a","element": "narrate-3-fake-websites"},
-	{"index": 28,"time": 10034,"type": "word","value": "fee","element": "narrate-3-fake-websites"},
-	{"index": 29,"time": 10372,"type": "word","value": "and","element": "narrate-3-fake-websites"},
-	{"index": 30,"time": 10534,"type": "word","value": "provide","element": "narrate-3-fake-websites"},
-	{"index": 31,"time": 10922,"type": "word","value": "personal","element": "narrate-3-fake-websites"},
-	{"index": 32,"time": 11359,"type": "word","value": "information","element": "narrate-3-fake-websites"},
-	{"index": 33,"time": 12222,"type": "word","value": "(including","element": "narrate-3-fake-websites"},
-	{"index": 34,"time": 12659,"type": "word","value": "a","element": "narrate-3-fake-websites"},
-	{"index": 35,"time": 12734,"type": "word","value": "photo),","element": "narrate-3-fake-websites"},
-	{"index": 36,"time": 13334,"type": "word","value": "resulting","element": "narrate-3-fake-websites"},
-	{"index": 37,"time": 13909,"type": "word","value": "in","element": "narrate-3-fake-websites"},
-	{"index": 38,"time": 14072,"type": "word","value": "financial","element": "narrate-3-fake-websites"},
-	{"index": 39,"time": 14622,"type": "word","value": "losses","element": "narrate-3-fake-websites"},
-	{"index": 40,"time": 15247,"type": "word","value": "or","element": "narrate-3-fake-websites"},
-	{"index": 41,"time": 15422,"type": "word","value": "identity","element": "narrate-3-fake-websites"},
-	{"index": 42,"time": 15897,"type": "word","value": "theft","element": "narrate-3-fake-websites"},
+def generateAudioUsingText(plainText, filename, myVoiceId):
+    # Generate audio using Text
+    session = Session(region_name="us-east-1")
+    polly = session.client("polly")
+    response = polly.synthesize_speech( Text=plainText,
+                                        Engine = "neural",
+                                        TextType = "text",
+                                        OutputFormat="mp3",
+                                        VoiceId=myVoiceId)
+    s3 = session.resource('s3')
+    bucket_name = "dart-store"
+    bucket = s3.Bucket(bucket_name)
+    filename = moduleID + folder + filename
+    stream = response["AudioStream"]
+    bucket.put_object(Key=filename, Body=stream.read())
+    
+    
+def generateSpeechMarksUsingText(plainText, filename, myVoiceId):
+    # Generate audio using Text
+    session = Session(region_name="us-east-1")
+    polly = session.client("polly")
+    response = polly.synthesize_speech( Text=plainText,
+                                        Engine = "neural",
+                                        TextType = "text",
+                                        OutputFormat="json",
+                                        SpeechMarkTypes=["word"],
+                                        VoiceId=myVoiceId)
+    s3 = session.resource('s3')
+    bucket_name = "dart-store"
+    bucket = s3.Bucket(bucket_name)
+    filename = moduleID + folder + filename
+    stream = response["AudioStream"]
+    bucket.put_object(Key=filename, Body=stream.read())
+    
+def generateAudioUsingSSML(ssmlText, filename, myVoiceId):
+    # Generate audio using Text
+    session = Session(region_name="us-east-1")
+    polly = session.client("polly")
+    response = polly.synthesize_speech( Text=ssmlText,
+                                        Engine = "neural",
+                                        TextType = "ssml",
+                                        OutputFormat="mp3",
+                                        VoiceId=myVoiceId)
+    s3 = session.resource('s3')
+    bucket_name = "dart-store"
+    bucket = s3.Bucket(bucket_name)
+    filename = moduleID + folder + filename
+    stream = response["AudioStream"]
+    bucket.put_object(Key=filename, Body=stream.read())
 
-	{"index": 43,"time": 16927,"type": "word","value": "Fake","element": "narrate-3-fake-websites"},
-	{"index": 44,"time": 17202,"type": "word","value": "Online","element": "narrate-3-fake-websites"},
-	{"index": 45,"time": 17739,"type": "word","value": "Dating","element": "narrate-3-fake-websites"},
-	{"index": 46,"time": 18077,"type": "word","value": "Sites","element": "narrate-3-fake-websites"},
-	{"index": 47,"time": 18502,"type": "word","value": "may","element": "narrate-3-fake-websites"},
-	{"index": 48,"time": 18627,"type": "word","value": "contain","element": "narrate-3-fake-websites"},
-	{"index": 49,"time": 19039,"type": "word","value": "malware","element": "narrate-3-fake-websites"},
-	{"index": 50,"time": 19527,"type": "word","value": "that","element": "narrate-3-fake-websites"},
-	{"index": 51,"time": 19727,"type": "word","value": "can","element": "narrate-3-fake-websites"},
-	{"index": 52,"time": 19902,"type": "word","value": "infect","element": "narrate-3-fake-websites"},
-	{"index": 53,"time": 20339,"type": "word","value": "your","element": "narrate-3-fake-websites"},
-	{"index": 54,"time": 20439,"type": "word","value": "personal","element": "narrate-3-fake-websites"},
-	{"index": 55,"time": 20914,"type": "word","value": "devices","element": "narrate-3-fake-websites"},
-	{"index": 56,"time": 21552,"type": "word","value": "to","element": "narrate-3-fake-websites"},
-	{"index": 57,"time": 21652,"type": "word","value": "steal","element": "narrate-3-fake-websites"},
-	{"index": 58,"time": 21964,"type": "word","value": "your","element": "narrate-3-fake-websites"},
-	{"index": 59,"time": 22089,"type": "word","value": "personal","element": "narrate-3-fake-websites"},
-	{"index": 60,"time": 22539,"type": "word","value": "information,","element": "narrate-3-fake-websites"},
-	{"index": 61,"time": 23439,"type": "word","value": "hack","element": "narrate-3-fake-websites"},
-	{"index": 62,"time": 23689,"type": "word","value": "your","element": "narrate-3-fake-websites"},
-	{"index": 63,"time": 23789,"type": "word","value": "camera,","element": "narrate-3-fake-websites"},
-	{"index": 64,"time": 24464,"type": "word","value": "and","element": "narrate-3-fake-websites"},
-	{"index": 65,"time": 24589,"type": "word","value": "even","element": "narrate-3-fake-websites"},
-	{"index": 66,"time": 24827,"type": "word","value": "hold","element": "narrate-3-fake-websites"},
-	{"index": 67,"time": 25114,"type": "word","value": "your","element": "narrate-3-fake-websites"},
-	{"index": 68,"time": 25239,"type": "word","value": "device","element": "narrate-3-fake-websites"},
-	{"index": 69,"time": 25664,"type": "word","value": "for","element": "narrate-3-fake-websites"},
-	{"index": 70,"time": 25789,"type": "word","value": "ransom","element": "narrate-3-fake-websites"},
-	
-	{"index": 71,"time": 26832,"type": "word","value": "Please","element": "narrate-3-fake-websites"},
-	{"index": 72,"time": 27169,"type": "word","value": "Only","element": "narrate-3-fake-websites"},
-	{"index": 73,"time": 27432,"type": "word","value": "Use","element": "narrate-3-fake-websites"},
-	{"index": 74,"time": 27682,"type": "word","value": "Reputable","element": "narrate-3-fake-websites"},
-	{"index": 75,"time": 28257,"type": "word","value": "and","element": "narrate-3-fake-websites"},
-	{"index": 76,"time": 28444,"type": "word","value": "Popular","element": "narrate-3-fake-websites"},
-	{"index": 77,"time": 28894,"type": "word","value": "Dating","element": "narrate-3-fake-websites"},
-	{"index": 78,"time": 29269,"type": "word","value": "websites","element": "narrate-3-fake-websites"}
-]}
+def generateSpeechMarksUsingSSML(ssmlText, filename, myVoiceId):
+    # Generate audio using Text
+    session = Session(region_name="us-east-1")
+    polly = session.client("polly")
+    response = polly.synthesize_speech( Text=ssmlText,
+                                        Engine = "neural",
+                                        TextType = "ssml",
+                                        OutputFormat="json",
+                                        SpeechMarkTypes=["word"],
+                                        VoiceId=myVoiceId)
+    s3 = session.resource('s3')
+    bucket_name = "dart-store"
+    bucket = s3.Bucket(bucket_name)
+    filename = moduleID + folder + filename
+    stream = response["AudioStream"]
+    bucket.put_object(Key=filename, Body=stream.read())
+
+def lambda_handler(event, context):
+
+    avatars = ["intrepid", "daring", "valiant"]
+    voice_ids = ["Ruth", "Danielle", "Matthew"]
+
+    for avatar, myVoiceId in zip(avatars, voice_ids):
+
+
+        text_source =  '''
+Prey on Vulnerable Moments.
+
+The initial contact from the scammer will often come late at night when people may be disoriented or less alert, making them more vulnerable to being confused or misled.
+
+Scammers may reach out during times of bad weather, natural disasters, or other concerning events when people are already in a heightened state of worry about their loved ones' safety. This preys on the grandparents’ emotional vulnerability.  
+
+
+'''
+
+
+        generateAudioUsingText(text_source, f'{page}_{avatar}.mp3', myVoiceId)
+        generateSpeechMarksUsingText(text_source, f'{page}_{avatar}.json', myVoiceId)
+        
+    return {
+        'statusCode': 200,
+        'body': json.dumps('Successful Generation using AWS Polly! Your audio files are so good, even Beyonce is taking notes.')
+    }
