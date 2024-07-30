@@ -1,24 +1,57 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 1."}
 {"time":137,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":625,"type":"word","start":10,"end":11,"value":"1"}
-{"time":1405,"type":"sentence","start":13,"end":119,"value":"Is it important to be careful about sharing your family’s information, including names, on social media?"}
-{"time":1592,"type":"word","start":13,"end":15,"value":"Is"}
-{"time":1705,"type":"word","start":16,"end":18,"value":"it"}
-{"time":1780,"type":"word","start":19,"end":28,"value":"important"}
-{"time":2280,"type":"word","start":29,"end":31,"value":"to"}
-{"time":2405,"type":"word","start":32,"end":34,"value":"be"}
-{"time":2542,"type":"word","start":35,"end":42,"value":"careful"}
-{"time":2917,"type":"word","start":43,"end":48,"value":"about"}
-{"time":3242,"type":"word","start":49,"end":56,"value":"sharing"}
-{"time":3530,"type":"word","start":57,"end":61,"value":"your"}
-{"time":3680,"type":"word","start":62,"end":72,"value":"family’s"}
-{"time":4192,"type":"word","start":73,"end":84,"value":"information"}
-{"time":5030,"type":"word","start":86,"end":95,"value":"including"}
-{"time":5530,"type":"word","start":96,"end":101,"value":"names"}
-{"time":6155,"type":"word","start":103,"end":105,"value":"on"}
-{"time":6342,"type":"word","start":106,"end":112,"value":"social"}
-{"time":6667,"type":"word","start":113,"end":118,"value":"media"}
-{"time":7560,"type":"sentence","start":120,"end":130,"value":"Yes or No?"}
-{"time":7747,"type":"word","start":120,"end":123,"value":"Yes"}
-{"time":8060,"type":"word","start":124,"end":126,"value":"or"}
-{"time":8185,"type":"word","start":127,"end":129,"value":"No"}
+{"time":1405,"type":"sentence","start":13,"end":91,"value":"When you receive a call, which scenarios could indicate a potential scam call?"}
+{"time":1542,"type":"word","start":13,"end":17,"value":"When"}
+{"time":1717,"type":"word","start":18,"end":21,"value":"you"}
+{"time":1817,"type":"word","start":22,"end":29,"value":"receive"}
+{"time":2217,"type":"word","start":30,"end":31,"value":"a"}
+{"time":2342,"type":"word","start":32,"end":36,"value":"call"}
+{"time":2842,"type":"word","start":38,"end":43,"value":"which"}
+{"time":3030,"type":"word","start":44,"end":53,"value":"scenarios"}
+{"time":3667,"type":"word","start":54,"end":59,"value":"could"}
+{"time":3792,"type":"word","start":60,"end":68,"value":"indicate"}
+{"time":4230,"type":"word","start":69,"end":70,"value":"a"}
+{"time":4292,"type":"word","start":71,"end":80,"value":"potential"}
+{"time":4905,"type":"word","start":81,"end":85,"value":"scam"}
+{"time":5292,"type":"word","start":86,"end":90,"value":"call"}
+{"time":6097,"type":"sentence","start":92,"end":114,"value":"Select all that apply."}
+{"time":6285,"type":"word","start":92,"end":98,"value":"Select"}
+{"time":6660,"type":"word","start":99,"end":102,"value":"all"}
+{"time":6847,"type":"word","start":103,"end":107,"value":"that"}
+{"time":7097,"type":"word","start":108,"end":113,"value":"apply"}
+{"time":8040,"type":"sentence","start":116,"end":137,"value":"A. An unknown number."}
+{"time":8290,"type":"word","start":116,"end":117,"value":"A"}
+{"time":8602,"type":"word","start":119,"end":121,"value":"An"}
+{"time":8852,"type":"word","start":122,"end":129,"value":"unknown"}
+{"time":9190,"type":"word","start":130,"end":136,"value":"number"}
+{"time":10082,"type":"sentence","start":138,"end":187,"value":"B. Call appears to be from the Police Department."}
+{"time":10220,"type":"word","start":138,"end":140,"value":"B."}
+{"time":10382,"type":"word","start":141,"end":145,"value":"Call"}
+{"time":10645,"type":"word","start":146,"end":153,"value":"appears"}
+{"time":11082,"type":"word","start":154,"end":156,"value":"to"}
+{"time":11207,"type":"word","start":157,"end":159,"value":"be"}
+{"time":11345,"type":"word","start":160,"end":164,"value":"from"}
+{"time":11520,"type":"word","start":165,"end":168,"value":"the"}
+{"time":11645,"type":"word","start":169,"end":175,"value":"Police"}
+{"time":12020,"type":"word","start":176,"end":186,"value":"Department"}
+{"time":13150,"type":"sentence","start":188,"end":240,"value":"C. Call appears to be from a law enforcement agency."}
+{"time":13350,"type":"word","start":188,"end":190,"value":"C."}
+{"time":13525,"type":"word","start":191,"end":195,"value":"Call"}
+{"time":13775,"type":"word","start":196,"end":203,"value":"appears"}
+{"time":14212,"type":"word","start":204,"end":206,"value":"to"}
+{"time":14350,"type":"word","start":207,"end":209,"value":"be"}
+{"time":14525,"type":"word","start":210,"end":214,"value":"from"}
+{"time":14712,"type":"word","start":215,"end":216,"value":"a"}
+{"time":14775,"type":"word","start":217,"end":220,"value":"law"}
+{"time":15025,"type":"word","start":221,"end":232,"value":"enforcement"}
+{"time":15787,"type":"word","start":233,"end":239,"value":"agency"}
+{"time":16792,"type":"sentence","start":241,"end":284,"value":"D. Call appears to be from your grandchild."}
+{"time":16980,"type":"word","start":241,"end":243,"value":"D."}
+{"time":17105,"type":"word","start":244,"end":248,"value":"Call"}
+{"time":17355,"type":"word","start":249,"end":256,"value":"appears"}
+{"time":17830,"type":"word","start":257,"end":259,"value":"to"}
+{"time":17930,"type":"word","start":260,"end":262,"value":"be"}
+{"time":18105,"type":"word","start":263,"end":267,"value":"from"}
+{"time":18305,"type":"word","start":268,"end":272,"value":"your"}
+{"time":18417,"type":"word","start":273,"end":283,"value":"grandchild"}

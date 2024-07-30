@@ -1,82 +1,48 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 3."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":425,"type":"word","start":10,"end":11,"value":"3"}
-{"time":1292,"type":"sentence","start":13,"end":112,"value":"Which are recommended strategies to verify the identity of a caller claiming to be your grandchild?"}
-{"time":1317,"type":"word","start":13,"end":18,"value":"Which"}
-{"time":1505,"type":"word","start":19,"end":22,"value":"are"}
-{"time":1555,"type":"word","start":23,"end":34,"value":"recommended"}
-{"time":2105,"type":"word","start":35,"end":45,"value":"strategies"}
-{"time":2705,"type":"word","start":46,"end":48,"value":"to"}
-{"time":2805,"type":"word","start":49,"end":55,"value":"verify"}
-{"time":3280,"type":"word","start":56,"end":59,"value":"the"}
-{"time":3442,"type":"word","start":60,"end":68,"value":"identity"}
-{"time":3892,"type":"word","start":69,"end":71,"value":"of"}
-{"time":3980,"type":"word","start":72,"end":73,"value":"a"}
-{"time":4030,"type":"word","start":74,"end":80,"value":"caller"}
-{"time":4367,"type":"word","start":81,"end":89,"value":"claiming"}
-{"time":4742,"type":"word","start":90,"end":92,"value":"to"}
-{"time":4817,"type":"word","start":93,"end":95,"value":"be"}
-{"time":4917,"type":"word","start":96,"end":100,"value":"your"}
-{"time":5067,"type":"word","start":101,"end":111,"value":"grandchild"}
-{"time":6185,"type":"sentence","start":113,"end":135,"value":"Select all that apply."}
-{"time":6210,"type":"word","start":113,"end":119,"value":"Select"}
-{"time":6610,"type":"word","start":120,"end":123,"value":"all"}
-{"time":6760,"type":"word","start":124,"end":128,"value":"that"}
-{"time":6872,"type":"word","start":129,"end":134,"value":"apply"}
-{"time":7827,"type":"sentence","start":137,"end":199,"value":"A. Ask them to provide their social media profile information."}
-{"time":7852,"type":"word","start":137,"end":139,"value":"A."}
-{"time":8052,"type":"word","start":140,"end":143,"value":"Ask"}
-{"time":8290,"type":"word","start":144,"end":148,"value":"them"}
-{"time":8502,"type":"word","start":149,"end":151,"value":"to"}
-{"time":8602,"type":"word","start":152,"end":159,"value":"provide"}
-{"time":8965,"type":"word","start":160,"end":165,"value":"their"}
-{"time":9090,"type":"word","start":166,"end":172,"value":"social"}
-{"time":9452,"type":"word","start":173,"end":178,"value":"media"}
-{"time":9790,"type":"word","start":179,"end":186,"value":"profile"}
-{"time":10315,"type":"word","start":187,"end":198,"value":"information"}
-{"time":11395,"type":"sentence","start":200,"end":274,"value":"B. Share personal information about your family to confirm their identity."}
-{"time":11420,"type":"word","start":200,"end":202,"value":"B."}
-{"time":11520,"type":"word","start":203,"end":208,"value":"Share"}
-{"time":11807,"type":"word","start":209,"end":217,"value":"personal"}
-{"time":12270,"type":"word","start":218,"end":229,"value":"information"}
-{"time":12770,"type":"word","start":230,"end":235,"value":"about"}
-{"time":13020,"type":"word","start":236,"end":240,"value":"your"}
-{"time":13095,"type":"word","start":241,"end":247,"value":"family"}
-{"time":13482,"type":"word","start":248,"end":250,"value":"to"}
-{"time":13582,"type":"word","start":251,"end":258,"value":"confirm"}
-{"time":13995,"type":"word","start":259,"end":264,"value":"their"}
-{"time":14157,"type":"word","start":265,"end":273,"value":"identity"}
-{"time":15112,"type":"sentence","start":275,"end":369,"value":"C. Contact your grandchild or their parents through a known method to confirm they called you."}
-{"time":15137,"type":"word","start":275,"end":277,"value":"C."}
-{"time":15400,"type":"word","start":278,"end":285,"value":"Contact"}
-{"time":15912,"type":"word","start":286,"end":290,"value":"your"}
-{"time":16012,"type":"word","start":291,"end":301,"value":"grandchild"}
-{"time":16662,"type":"word","start":302,"end":304,"value":"or"}
-{"time":16812,"type":"word","start":305,"end":310,"value":"their"}
-{"time":16950,"type":"word","start":311,"end":318,"value":"parents"}
-{"time":17387,"type":"word","start":319,"end":326,"value":"through"}
-{"time":17562,"type":"word","start":327,"end":328,"value":"a"}
-{"time":17600,"type":"word","start":329,"end":334,"value":"known"}
-{"time":17887,"type":"word","start":335,"end":341,"value":"method"}
-{"time":18212,"type":"word","start":342,"end":344,"value":"to"}
-{"time":18312,"type":"word","start":345,"end":352,"value":"confirm"}
-{"time":18712,"type":"word","start":353,"end":357,"value":"they"}
-{"time":18800,"type":"word","start":358,"end":364,"value":"called"}
-{"time":19075,"type":"word","start":365,"end":368,"value":"you"}
-{"time":19717,"type":"sentence","start":370,"end":460,"value":"D. Establish a secret word or question that only your grandchild would know the answer to."}
-{"time":19742,"type":"word","start":370,"end":372,"value":"D."}
-{"time":19942,"type":"word","start":373,"end":382,"value":"Establish"}
-{"time":20492,"type":"word","start":383,"end":384,"value":"a"}
-{"time":20530,"type":"word","start":385,"end":391,"value":"secret"}
-{"time":20917,"type":"word","start":392,"end":396,"value":"word"}
-{"time":21192,"type":"word","start":397,"end":399,"value":"or"}
-{"time":21280,"type":"word","start":400,"end":408,"value":"question"}
-{"time":21717,"type":"word","start":409,"end":413,"value":"that"}
-{"time":21817,"type":"word","start":414,"end":418,"value":"only"}
-{"time":22005,"type":"word","start":419,"end":423,"value":"your"}
-{"time":22155,"type":"word","start":424,"end":434,"value":"grandchild"}
-{"time":22742,"type":"word","start":435,"end":440,"value":"would"}
-{"time":22880,"type":"word","start":441,"end":445,"value":"know"}
-{"time":23042,"type":"word","start":446,"end":449,"value":"the"}
-{"time":23217,"type":"word","start":450,"end":456,"value":"answer"}
-{"time":23442,"type":"word","start":457,"end":459,"value":"to"}
+{"time":1292,"type":"sentence","start":13,"end":92,"value":"When are individuals most vulnerable to being targeted by grandparent scammers?"}
+{"time":1317,"type":"word","start":13,"end":17,"value":"When"}
+{"time":1455,"type":"word","start":18,"end":21,"value":"are"}
+{"time":1592,"type":"word","start":22,"end":33,"value":"individuals"}
+{"time":2217,"type":"word","start":34,"end":38,"value":"most"}
+{"time":2492,"type":"word","start":39,"end":49,"value":"vulnerable"}
+{"time":3030,"type":"word","start":50,"end":52,"value":"to"}
+{"time":3130,"type":"word","start":53,"end":58,"value":"being"}
+{"time":3392,"type":"word","start":59,"end":67,"value":"targeted"}
+{"time":3842,"type":"word","start":68,"end":70,"value":"by"}
+{"time":3992,"type":"word","start":71,"end":82,"value":"grandparent"}
+{"time":4542,"type":"word","start":83,"end":91,"value":"scammers"}
+{"time":5535,"type":"sentence","start":93,"end":115,"value":"Select all that apply."}
+{"time":5560,"type":"word","start":93,"end":99,"value":"Select"}
+{"time":5960,"type":"word","start":100,"end":103,"value":"all"}
+{"time":6110,"type":"word","start":104,"end":108,"value":"that"}
+{"time":6222,"type":"word","start":109,"end":114,"value":"apply"}
+{"time":7177,"type":"sentence","start":116,"end":133,"value":"A. Late at night."}
+{"time":7202,"type":"word","start":116,"end":118,"value":"A."}
+{"time":7340,"type":"word","start":119,"end":123,"value":"Late"}
+{"time":7565,"type":"word","start":124,"end":126,"value":"at"}
+{"time":7665,"type":"word","start":127,"end":132,"value":"night"}
+{"time":8470,"type":"sentence","start":134,"end":166,"value":"B. During typical working hours."}
+{"time":8495,"type":"word","start":134,"end":136,"value":"B."}
+{"time":8657,"type":"word","start":137,"end":143,"value":"During"}
+{"time":8945,"type":"word","start":144,"end":151,"value":"typical"}
+{"time":9307,"type":"word","start":152,"end":159,"value":"working"}
+{"time":9657,"type":"word","start":160,"end":165,"value":"hours"}
+{"time":10550,"type":"sentence","start":167,"end":211,"value":"C. During family gatherings or celebrations."}
+{"time":10575,"type":"word","start":167,"end":169,"value":"C."}
+{"time":10875,"type":"word","start":170,"end":176,"value":"During"}
+{"time":11162,"type":"word","start":177,"end":183,"value":"family"}
+{"time":11512,"type":"word","start":184,"end":194,"value":"gatherings"}
+{"time":12062,"type":"word","start":195,"end":197,"value":"or"}
+{"time":12137,"type":"word","start":198,"end":210,"value":"celebrations"}
+{"time":13430,"type":"sentence","start":212,"end":268,"value":"D. During times of natural disasters or adverse weather."}
+{"time":13455,"type":"word","start":212,"end":214,"value":"D."}
+{"time":13680,"type":"word","start":215,"end":221,"value":"During"}
+{"time":13980,"type":"word","start":222,"end":227,"value":"times"}
+{"time":14355,"type":"word","start":228,"end":230,"value":"of"}
+{"time":14442,"type":"word","start":231,"end":238,"value":"natural"}
+{"time":14842,"type":"word","start":239,"end":248,"value":"disasters"}
+{"time":15442,"type":"word","start":249,"end":251,"value":"or"}
+{"time":15605,"type":"word","start":252,"end":259,"value":"adverse"}
+{"time":15955,"type":"word","start":260,"end":267,"value":"weather"}

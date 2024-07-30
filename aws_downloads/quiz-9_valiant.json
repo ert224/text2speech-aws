@@ -1,0 +1,57 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 9."}
+{"time":25,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":412,"type":"word","start":10,"end":11,"value":"9"}
+{"time":1292,"type":"sentence","start":13,"end":72,"value":"To prevent potential grandparent scams, what should you do?"}
+{"time":1317,"type":"word","start":13,"end":15,"value":"To"}
+{"time":1417,"type":"word","start":16,"end":23,"value":"prevent"}
+{"time":1780,"type":"word","start":24,"end":33,"value":"potential"}
+{"time":2205,"type":"word","start":34,"end":45,"value":"grandparent"}
+{"time":2755,"type":"word","start":46,"end":51,"value":"scams"}
+{"time":3442,"type":"word","start":53,"end":57,"value":"what"}
+{"time":3605,"type":"word","start":58,"end":64,"value":"should"}
+{"time":3805,"type":"word","start":65,"end":68,"value":"you"}
+{"time":3892,"type":"word","start":69,"end":71,"value":"do"}
+{"time":4647,"type":"sentence","start":73,"end":95,"value":"Select all that apply."}
+{"time":4672,"type":"word","start":73,"end":79,"value":"Select"}
+{"time":5072,"type":"word","start":80,"end":83,"value":"all"}
+{"time":5222,"type":"word","start":84,"end":88,"value":"that"}
+{"time":5335,"type":"word","start":89,"end":94,"value":"apply"}
+{"time":6290,"type":"sentence","start":96,"end":140,"value":"A. Set your social media account to private."}
+{"time":6315,"type":"word","start":96,"end":98,"value":"A."}
+{"time":6452,"type":"word","start":99,"end":102,"value":"Set"}
+{"time":6727,"type":"word","start":103,"end":107,"value":"your"}
+{"time":6840,"type":"word","start":108,"end":114,"value":"social"}
+{"time":7202,"type":"word","start":115,"end":120,"value":"media"}
+{"time":7602,"type":"word","start":121,"end":128,"value":"account"}
+{"time":7915,"type":"word","start":129,"end":131,"value":"to"}
+{"time":7990,"type":"word","start":132,"end":139,"value":"private"}
+{"time":8845,"type":"sentence","start":141,"end":175,"value":"B. Post details about your family."}
+{"time":8870,"type":"word","start":141,"end":143,"value":"B."}
+{"time":9007,"type":"word","start":144,"end":148,"value":"Post"}
+{"time":9332,"type":"word","start":149,"end":156,"value":"details"}
+{"time":9770,"type":"word","start":157,"end":162,"value":"about"}
+{"time":9982,"type":"word","start":163,"end":167,"value":"your"}
+{"time":10032,"type":"word","start":168,"end":174,"value":"family"}
+{"time":10950,"type":"sentence","start":176,"end":238,"value":"C. Do not answer calls from numbers that you do not recognize."}
+{"time":10975,"type":"word","start":176,"end":177,"value":"C"}
+{"time":11662,"type":"word","start":179,"end":181,"value":"Do"}
+{"time":11762,"type":"word","start":182,"end":185,"value":"not"}
+{"time":11962,"type":"word","start":186,"end":192,"value":"answer"}
+{"time":12237,"type":"word","start":193,"end":198,"value":"calls"}
+{"time":12575,"type":"word","start":199,"end":203,"value":"from"}
+{"time":12712,"type":"word","start":204,"end":211,"value":"numbers"}
+{"time":13087,"type":"word","start":212,"end":216,"value":"that"}
+{"time":13250,"type":"word","start":217,"end":220,"value":"you"}
+{"time":13337,"type":"word","start":221,"end":223,"value":"do"}
+{"time":13462,"type":"word","start":224,"end":227,"value":"not"}
+{"time":13675,"type":"word","start":228,"end":237,"value":"recognize"}
+{"time":14817,"type":"sentence","start":239,"end":284,"value":"D. Learn about scams and how to prevent them."}
+{"time":14842,"type":"word","start":239,"end":241,"value":"D."}
+{"time":15042,"type":"word","start":242,"end":247,"value":"Learn"}
+{"time":15292,"type":"word","start":248,"end":253,"value":"about"}
+{"time":15542,"type":"word","start":254,"end":259,"value":"scams"}
+{"time":15992,"type":"word","start":260,"end":263,"value":"and"}
+{"time":16067,"type":"word","start":264,"end":267,"value":"how"}
+{"time":16180,"type":"word","start":268,"end":270,"value":"to"}
+{"time":16230,"type":"word","start":271,"end":278,"value":"prevent"}
+{"time":16630,"type":"word","start":279,"end":283,"value":"them"}

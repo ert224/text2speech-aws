@@ -1,94 +1,129 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 4."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":462,"type":"word","start":10,"end":11,"value":"4"}
-{"time":1330,"type":"sentence","start":13,"end":100,"value":"When answering a call, the caller addresses you as grandpa\/grandma, what should you do?"}
-{"time":1355,"type":"word","start":13,"end":17,"value":"When"}
-{"time":1517,"type":"word","start":18,"end":27,"value":"answering"}
-{"time":1992,"type":"word","start":28,"end":29,"value":"a"}
-{"time":2067,"type":"word","start":30,"end":34,"value":"call"}
-{"time":2642,"type":"word","start":36,"end":39,"value":"the"}
-{"time":2717,"type":"word","start":40,"end":46,"value":"caller"}
-{"time":3142,"type":"word","start":47,"end":56,"value":"addresses"}
-{"time":3730,"type":"word","start":57,"end":60,"value":"you"}
-{"time":3855,"type":"word","start":61,"end":63,"value":"as"}
-{"time":3992,"type":"word","start":64,"end":79,"value":"grandpa\/grandma"}
-{"time":5642,"type":"word","start":81,"end":85,"value":"what"}
-{"time":5805,"type":"word","start":86,"end":92,"value":"should"}
-{"time":6017,"type":"word","start":93,"end":96,"value":"you"}
-{"time":6117,"type":"word","start":97,"end":99,"value":"do"}
-{"time":6922,"type":"sentence","start":101,"end":123,"value":"Select all that apply."}
-{"time":6947,"type":"word","start":101,"end":107,"value":"Select"}
-{"time":7422,"type":"word","start":108,"end":111,"value":"all"}
-{"time":7672,"type":"word","start":112,"end":116,"value":"that"}
-{"time":7872,"type":"word","start":117,"end":122,"value":"apply"}
-{"time":8852,"type":"sentence","start":126,"end":211,"value":"A. Feel happy and provide your grandchild's name, assuming they want you to guess it."}
-{"time":8877,"type":"word","start":126,"end":128,"value":"A."}
-{"time":9015,"type":"word","start":129,"end":133,"value":"Feel"}
-{"time":9252,"type":"word","start":134,"end":139,"value":"happy"}
-{"time":9690,"type":"word","start":140,"end":143,"value":"and"}
-{"time":9802,"type":"word","start":144,"end":151,"value":"provide"}
-{"time":10190,"type":"word","start":152,"end":156,"value":"your"}
-{"time":10302,"type":"word","start":157,"end":169,"value":"grandchild's"}
-{"time":11065,"type":"word","start":170,"end":174,"value":"name"}
-{"time":11615,"type":"word","start":176,"end":184,"value":"assuming"}
-{"time":12027,"type":"word","start":185,"end":189,"value":"they"}
-{"time":12152,"type":"word","start":190,"end":194,"value":"want"}
-{"time":12440,"type":"word","start":195,"end":198,"value":"you"}
-{"time":12552,"type":"word","start":199,"end":201,"value":"to"}
-{"time":12690,"type":"word","start":202,"end":207,"value":"guess"}
-{"time":13015,"type":"word","start":208,"end":210,"value":"it"}
-{"time":13620,"type":"sentence","start":212,"end":313,"value":"B. Do not mention any of your grandchild’s names; wait for the caller to state the name themselves."}
-{"time":13645,"type":"word","start":212,"end":213,"value":"B"}
-{"time":14170,"type":"word","start":215,"end":217,"value":"Do"}
-{"time":14257,"type":"word","start":218,"end":221,"value":"not"}
-{"time":14457,"type":"word","start":222,"end":229,"value":"mention"}
-{"time":14820,"type":"word","start":230,"end":233,"value":"any"}
-{"time":15020,"type":"word","start":234,"end":236,"value":"of"}
-{"time":15120,"type":"word","start":237,"end":241,"value":"your"}
-{"time":15245,"type":"word","start":242,"end":256,"value":"grandchild’s"}
-{"time":15945,"type":"word","start":257,"end":262,"value":"names"}
-{"time":16570,"type":"word","start":264,"end":268,"value":"wait"}
-{"time":16782,"type":"word","start":269,"end":272,"value":"for"}
-{"time":16920,"type":"word","start":273,"end":276,"value":"the"}
-{"time":17007,"type":"word","start":277,"end":283,"value":"caller"}
-{"time":17345,"type":"word","start":284,"end":286,"value":"to"}
-{"time":17482,"type":"word","start":287,"end":292,"value":"state"}
-{"time":17795,"type":"word","start":293,"end":296,"value":"the"}
-{"time":17857,"type":"word","start":297,"end":301,"value":"name"}
-{"time":18082,"type":"word","start":302,"end":312,"value":"themselves"}
-{"time":19250,"type":"sentence","start":314,"end":445,"value":"C. If they respond as”your favorite grandson\/granddaughter” without stating their name, wait for them to provide it themselves."}
-{"time":19275,"type":"word","start":314,"end":315,"value":"C"}
-{"time":19900,"type":"word","start":317,"end":319,"value":"If"}
-{"time":20025,"type":"word","start":320,"end":324,"value":"they"}
-{"time":20150,"type":"word","start":325,"end":332,"value":"respond"}
-{"time":20625,"type":"word","start":333,"end":335,"value":"as"}
-{"time":20800,"type":"word","start":338,"end":342,"value":"your"}
-{"time":20900,"type":"word","start":343,"end":351,"value":"favorite"}
-{"time":21312,"type":"word","start":352,"end":374,"value":"grandson\/granddaughter"}
-{"time":23025,"type":"word","start":378,"end":385,"value":"without"}
-{"time":23387,"type":"word","start":386,"end":393,"value":"stating"}
-{"time":23712,"type":"word","start":394,"end":399,"value":"their"}
-{"time":23875,"type":"word","start":400,"end":404,"value":"name"}
-{"time":24450,"type":"word","start":406,"end":410,"value":"wait"}
-{"time":24650,"type":"word","start":411,"end":414,"value":"for"}
-{"time":24775,"type":"word","start":415,"end":419,"value":"them"}
-{"time":24962,"type":"word","start":420,"end":422,"value":"to"}
-{"time":25087,"type":"word","start":423,"end":430,"value":"provide"}
-{"time":25512,"type":"word","start":431,"end":433,"value":"it"}
-{"time":25625,"type":"word","start":434,"end":444,"value":"themselves"}
-{"time":26805,"type":"sentence","start":446,"end":544,"value":"D. Using your pre-established secret codeword to verify the caller’s identity,  if you have one."}
-{"time":26830,"type":"word","start":446,"end":448,"value":"D."}
-{"time":27055,"type":"word","start":449,"end":454,"value":"Using"}
-{"time":27467,"type":"word","start":455,"end":459,"value":"your"}
-{"time":27605,"type":"word","start":460,"end":475,"value":"pre-established"}
-{"time":28417,"type":"word","start":476,"end":482,"value":"secret"}
-{"time":28755,"type":"word","start":483,"end":491,"value":"codeword"}
-{"time":29230,"type":"word","start":492,"end":494,"value":"to"}
-{"time":29342,"type":"word","start":495,"end":501,"value":"verify"}
-{"time":29830,"type":"word","start":502,"end":505,"value":"the"}
-{"time":29930,"type":"word","start":506,"end":516,"value":"caller’s"}
-{"time":30380,"type":"word","start":517,"end":525,"value":"identity"}
-{"time":31105,"type":"word","start":528,"end":530,"value":"if"}
-{"time":31280,"type":"word","start":531,"end":534,"value":"you"}
-{"time":31367,"type":"word","start":535,"end":539,"value":"have"}
-{"time":31580,"type":"word","start":540,"end":543,"value":"one"}
+{"time":1330,"type":"sentence","start":13,"end":117,"value":"According to this conversation, what red flags did you notice that can indicate the caller is a scammer?"}
+{"time":1355,"type":"word","start":13,"end":22,"value":"According"}
+{"time":1792,"type":"word","start":23,"end":25,"value":"to"}
+{"time":1930,"type":"word","start":26,"end":30,"value":"this"}
+{"time":2130,"type":"word","start":31,"end":43,"value":"conversation"}
+{"time":3167,"type":"word","start":45,"end":49,"value":"what"}
+{"time":3355,"type":"word","start":50,"end":53,"value":"red"}
+{"time":3555,"type":"word","start":54,"end":59,"value":"flags"}
+{"time":3980,"type":"word","start":60,"end":63,"value":"did"}
+{"time":4142,"type":"word","start":64,"end":67,"value":"you"}
+{"time":4280,"type":"word","start":68,"end":74,"value":"notice"}
+{"time":4730,"type":"word","start":75,"end":79,"value":"that"}
+{"time":4880,"type":"word","start":80,"end":83,"value":"can"}
+{"time":5067,"type":"word","start":84,"end":92,"value":"indicate"}
+{"time":5542,"type":"word","start":93,"end":96,"value":"the"}
+{"time":5617,"type":"word","start":97,"end":103,"value":"caller"}
+{"time":6042,"type":"word","start":104,"end":106,"value":"is"}
+{"time":6205,"type":"word","start":107,"end":108,"value":"a"}
+{"time":6255,"type":"word","start":109,"end":116,"value":"scammer"}
+{"time":7260,"type":"sentence","start":118,"end":132,"value":"Grandparent: ."}
+{"time":7285,"type":"word","start":118,"end":129,"value":"Grandparent"}
+{"time":8752,"type":"sentence","start":134,"end":166,"value":"Yes, yes, I'll do it right away."}
+{"time":8777,"type":"word","start":134,"end":137,"value":"Yes"}
+{"time":9452,"type":"word","start":139,"end":142,"value":"yes"}
+{"time":10152,"type":"word","start":144,"end":148,"value":"I'll"}
+{"time":10339,"type":"word","start":149,"end":151,"value":"do"}
+{"time":10514,"type":"word","start":152,"end":154,"value":"it"}
+{"time":10639,"type":"word","start":155,"end":160,"value":"right"}
+{"time":10877,"type":"word","start":161,"end":165,"value":"away"}
+{"time":11794,"type":"sentence","start":167,"end":180,"value":"Just hold on."}
+{"time":11819,"type":"word","start":167,"end":171,"value":"Just"}
+{"time":12169,"type":"word","start":172,"end":176,"value":"hold"}
+{"time":12444,"type":"word","start":177,"end":179,"value":"on"}
+{"time":13287,"type":"sentence","start":181,"end":217,"value":"Everything will be okay, sweetheart."}
+{"time":13312,"type":"word","start":181,"end":191,"value":"Everything"}
+{"time":13774,"type":"word","start":192,"end":196,"value":"will"}
+{"time":13874,"type":"word","start":197,"end":199,"value":"be"}
+{"time":14062,"type":"word","start":200,"end":204,"value":"okay"}
+{"time":14687,"type":"word","start":206,"end":216,"value":"sweetheart"}
+{"time":15854,"type":"sentence","start":218,"end":245,"value":"Should I tell your parents?"}
+{"time":15879,"type":"word","start":218,"end":224,"value":"Should"}
+{"time":16067,"type":"word","start":225,"end":226,"value":"I"}
+{"time":16154,"type":"word","start":227,"end":231,"value":"tell"}
+{"time":16379,"type":"word","start":232,"end":236,"value":"your"}
+{"time":16492,"type":"word","start":237,"end":244,"value":"parents"}
+{"time":17622,"type":"sentence","start":248,"end":258,"value":"Scammer: ."}
+{"time":17647,"type":"word","start":248,"end":255,"value":"Scammer"}
+{"time":18714,"type":"sentence","start":259,"end":303,"value":"No, no, please don't tell them yet, Grandpa."}
+{"time":18739,"type":"word","start":259,"end":261,"value":"No"}
+{"time":19314,"type":"word","start":263,"end":265,"value":"no"}
+{"time":19902,"type":"word","start":267,"end":273,"value":"please"}
+{"time":20214,"type":"word","start":274,"end":279,"value":"don't"}
+{"time":20402,"type":"word","start":280,"end":284,"value":"tell"}
+{"time":20614,"type":"word","start":285,"end":289,"value":"them"}
+{"time":20802,"type":"word","start":290,"end":293,"value":"yet"}
+{"time":21227,"type":"word","start":295,"end":302,"value":"Grandpa"}
+{"time":22282,"type":"sentence","start":304,"end":387,"value":"They'll only worry, and I don't want them to stress out more than they already are."}
+{"time":22307,"type":"word","start":304,"end":311,"value":"They'll"}
+{"time":22582,"type":"word","start":312,"end":316,"value":"only"}
+{"time":22844,"type":"word","start":317,"end":322,"value":"worry"}
+{"time":23507,"type":"word","start":324,"end":327,"value":"and"}
+{"time":23607,"type":"word","start":328,"end":329,"value":"I"}
+{"time":23744,"type":"word","start":330,"end":335,"value":"don't"}
+{"time":24019,"type":"word","start":336,"end":340,"value":"want"}
+{"time":24244,"type":"word","start":341,"end":345,"value":"them"}
+{"time":24394,"type":"word","start":346,"end":348,"value":"to"}
+{"time":24507,"type":"word","start":349,"end":355,"value":"stress"}
+{"time":24907,"type":"word","start":356,"end":359,"value":"out"}
+{"time":25082,"type":"word","start":360,"end":364,"value":"more"}
+{"time":25344,"type":"word","start":365,"end":369,"value":"than"}
+{"time":25519,"type":"word","start":370,"end":374,"value":"they"}
+{"time":25669,"type":"word","start":375,"end":382,"value":"already"}
+{"time":26132,"type":"word","start":383,"end":386,"value":"are"}
+{"time":26974,"type":"sentence","start":388,"end":429,"value":"Let's keep this between us for now, okay?"}
+{"time":26999,"type":"word","start":388,"end":393,"value":"Let's"}
+{"time":27224,"type":"word","start":394,"end":398,"value":"keep"}
+{"time":27474,"type":"word","start":399,"end":403,"value":"this"}
+{"time":27687,"type":"word","start":404,"end":411,"value":"between"}
+{"time":28037,"type":"word","start":412,"end":414,"value":"us"}
+{"time":28199,"type":"word","start":415,"end":418,"value":"for"}
+{"time":28349,"type":"word","start":419,"end":422,"value":"now"}
+{"time":28762,"type":"word","start":424,"end":428,"value":"okay"}
+{"time":29617,"type":"sentence","start":430,"end":444,"value":"Grandparent: ."}
+{"time":29642,"type":"word","start":430,"end":441,"value":"Grandparent"}
+{"time":30859,"type":"sentence","start":445,"end":470,"value":"Okay, I understand, dear."}
+{"time":30884,"type":"word","start":445,"end":449,"value":"Okay"}
+{"time":31547,"type":"word","start":451,"end":452,"value":"I"}
+{"time":31709,"type":"word","start":453,"end":463,"value":"understand"}
+{"time":32597,"type":"word","start":465,"end":469,"value":"dear"}
+{"time":33464,"type":"sentence","start":471,"end":492,"value":"I won't say anything."}
+{"time":33489,"type":"word","start":471,"end":472,"value":"I"}
+{"time":33602,"type":"word","start":473,"end":478,"value":"won't"}
+{"time":33902,"type":"word","start":479,"end":482,"value":"say"}
+{"time":34164,"type":"word","start":483,"end":491,"value":"anything"}
+{"time":35232,"type":"sentence","start":493,"end":522,"value":"Just focus on getting better."}
+{"time":35257,"type":"word","start":493,"end":497,"value":"Just"}
+{"time":35507,"type":"word","start":498,"end":503,"value":"focus"}
+{"time":35907,"type":"word","start":504,"end":506,"value":"on"}
+{"time":36082,"type":"word","start":507,"end":514,"value":"getting"}
+{"time":36344,"type":"word","start":515,"end":521,"value":"better"}
+{"time":37474,"type":"sentence","start":524,"end":553,"value":"A. Inaccurate Family Details."}
+{"time":37499,"type":"word","start":524,"end":526,"value":"A."}
+{"time":37699,"type":"word","start":527,"end":537,"value":"Inaccurate"}
+{"time":38312,"type":"word","start":538,"end":544,"value":"Family"}
+{"time":38699,"type":"word","start":545,"end":552,"value":"Details"}
+{"time":39942,"type":"sentence","start":554,"end":598,"value":"B. Pressure to Act Fast and Deter Questions."}
+{"time":39967,"type":"word","start":554,"end":556,"value":"B."}
+{"time":40117,"type":"word","start":557,"end":565,"value":"Pressure"}
+{"time":40529,"type":"word","start":566,"end":568,"value":"to"}
+{"time":40679,"type":"word","start":569,"end":572,"value":"Act"}
+{"time":40967,"type":"word","start":573,"end":577,"value":"Fast"}
+{"time":41367,"type":"word","start":578,"end":581,"value":"and"}
+{"time":41504,"type":"word","start":582,"end":587,"value":"Deter"}
+{"time":41804,"type":"word","start":588,"end":597,"value":"Questions"}
+{"time":42997,"type":"sentence","start":599,"end":621,"value":"C. Demand for Secrecy."}
+{"time":43022,"type":"word","start":599,"end":601,"value":"C."}
+{"time":43322,"type":"word","start":602,"end":608,"value":"Demand"}
+{"time":43747,"type":"word","start":609,"end":612,"value":"for"}
+{"time":43872,"type":"word","start":613,"end":620,"value":"Secrecy"}
+{"time":45014,"type":"sentence","start":622,"end":665,"value":"D. Request for Untraceable Payment Methods."}
+{"time":45039,"type":"word","start":622,"end":624,"value":"D."}
+{"time":45239,"type":"word","start":625,"end":632,"value":"Request"}
+{"time":45702,"type":"word","start":633,"end":636,"value":"for"}
+{"time":45877,"type":"word","start":637,"end":648,"value":"Untraceable"}
+{"time":46527,"type":"word","start":649,"end":656,"value":"Payment"}
+{"time":46914,"type":"word","start":657,"end":664,"value":"Methods"}

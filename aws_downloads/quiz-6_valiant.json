@@ -1,84 +1,53 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 6."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":425,"type":"word","start":10,"end":11,"value":"6"}
-{"time":1305,"type":"sentence","start":13,"end":117,"value":"If you suspect the caller is not your loved one, and the caller asks money from you, what should you do?"}
-{"time":1330,"type":"word","start":13,"end":15,"value":"If"}
-{"time":1480,"type":"word","start":16,"end":19,"value":"you"}
-{"time":1567,"type":"word","start":20,"end":27,"value":"suspect"}
-{"time":2017,"type":"word","start":28,"end":31,"value":"the"}
-{"time":2092,"type":"word","start":32,"end":38,"value":"caller"}
-{"time":2505,"type":"word","start":39,"end":41,"value":"is"}
-{"time":2605,"type":"word","start":42,"end":45,"value":"not"}
-{"time":2805,"type":"word","start":46,"end":50,"value":"your"}
-{"time":2880,"type":"word","start":51,"end":56,"value":"loved"}
-{"time":3167,"type":"word","start":57,"end":60,"value":"one"}
-{"time":3717,"type":"word","start":62,"end":65,"value":"and"}
-{"time":3830,"type":"word","start":66,"end":69,"value":"the"}
-{"time":3892,"type":"word","start":70,"end":76,"value":"caller"}
-{"time":4267,"type":"word","start":77,"end":81,"value":"asks"}
-{"time":4492,"type":"word","start":82,"end":87,"value":"money"}
-{"time":4717,"type":"word","start":88,"end":92,"value":"from"}
-{"time":4917,"type":"word","start":93,"end":96,"value":"you"}
-{"time":5367,"type":"word","start":98,"end":102,"value":"what"}
-{"time":5530,"type":"word","start":103,"end":109,"value":"should"}
-{"time":5730,"type":"word","start":110,"end":113,"value":"you"}
-{"time":5817,"type":"word","start":114,"end":116,"value":"do"}
-{"time":6572,"type":"sentence","start":118,"end":140,"value":"Select all that apply."}
-{"time":6597,"type":"word","start":118,"end":124,"value":"Select"}
-{"time":6997,"type":"word","start":125,"end":128,"value":"all"}
-{"time":7147,"type":"word","start":129,"end":133,"value":"that"}
-{"time":7260,"type":"word","start":134,"end":139,"value":"apply"}
-{"time":8215,"type":"sentence","start":143,"end":202,"value":"A. Stop talking with the caller immediately and report him."}
-{"time":8240,"type":"word","start":143,"end":145,"value":"A."}
-{"time":8390,"type":"word","start":146,"end":150,"value":"Stop"}
-{"time":8740,"type":"word","start":151,"end":158,"value":"talking"}
-{"time":9127,"type":"word","start":159,"end":163,"value":"with"}
-{"time":9252,"type":"word","start":164,"end":167,"value":"the"}
-{"time":9327,"type":"word","start":168,"end":174,"value":"caller"}
-{"time":9715,"type":"word","start":175,"end":186,"value":"immediately"}
-{"time":10265,"type":"word","start":187,"end":190,"value":"and"}
-{"time":10352,"type":"word","start":191,"end":197,"value":"report"}
-{"time":10702,"type":"word","start":198,"end":201,"value":"him"}
-{"time":11395,"type":"sentence","start":203,"end":298,"value":"B. Stop talking with the caller immediately and call your family member to verify the incident."}
-{"time":11420,"type":"word","start":203,"end":205,"value":"B."}
-{"time":11607,"type":"word","start":206,"end":210,"value":"Stop"}
-{"time":11945,"type":"word","start":211,"end":218,"value":"talking"}
-{"time":12320,"type":"word","start":219,"end":223,"value":"with"}
-{"time":12445,"type":"word","start":224,"end":227,"value":"the"}
-{"time":12520,"type":"word","start":228,"end":234,"value":"caller"}
-{"time":12907,"type":"word","start":235,"end":246,"value":"immediately"}
-{"time":13482,"type":"word","start":247,"end":250,"value":"and"}
-{"time":13595,"type":"word","start":251,"end":255,"value":"call"}
-{"time":13807,"type":"word","start":256,"end":260,"value":"your"}
-{"time":13945,"type":"word","start":261,"end":267,"value":"family"}
-{"time":14320,"type":"word","start":268,"end":274,"value":"member"}
-{"time":14620,"type":"word","start":275,"end":277,"value":"to"}
-{"time":14732,"type":"word","start":278,"end":284,"value":"verify"}
-{"time":15195,"type":"word","start":285,"end":288,"value":"the"}
-{"time":15357,"type":"word","start":289,"end":297,"value":"incident"}
-{"time":16237,"type":"sentence","start":299,"end":357,"value":"C. Keep talking with the caller to find out what happened."}
-{"time":16262,"type":"word","start":299,"end":301,"value":"C."}
-{"time":16537,"type":"word","start":302,"end":306,"value":"Keep"}
-{"time":16812,"type":"word","start":307,"end":314,"value":"talking"}
-{"time":17187,"type":"word","start":315,"end":319,"value":"with"}
-{"time":17312,"type":"word","start":320,"end":323,"value":"the"}
-{"time":17387,"type":"word","start":324,"end":330,"value":"caller"}
-{"time":17712,"type":"word","start":331,"end":333,"value":"to"}
-{"time":17800,"type":"word","start":334,"end":338,"value":"find"}
-{"time":18062,"type":"word","start":339,"end":342,"value":"out"}
-{"time":18212,"type":"word","start":343,"end":347,"value":"what"}
-{"time":18350,"type":"word","start":348,"end":356,"value":"happened"}
-{"time":19255,"type":"sentence","start":358,"end":419,"value":"D. Give the money to the caller if you think it is necessary."}
-{"time":19280,"type":"word","start":358,"end":360,"value":"D."}
-{"time":19492,"type":"word","start":361,"end":365,"value":"Give"}
-{"time":19692,"type":"word","start":366,"end":369,"value":"the"}
-{"time":19767,"type":"word","start":370,"end":375,"value":"money"}
-{"time":20042,"type":"word","start":376,"end":378,"value":"to"}
-{"time":20167,"type":"word","start":379,"end":382,"value":"the"}
-{"time":20255,"type":"word","start":383,"end":389,"value":"caller"}
-{"time":20655,"type":"word","start":390,"end":392,"value":"if"}
-{"time":20780,"type":"word","start":393,"end":396,"value":"you"}
-{"time":20855,"type":"word","start":397,"end":402,"value":"think"}
-{"time":21092,"type":"word","start":403,"end":405,"value":"it"}
-{"time":21155,"type":"word","start":406,"end":408,"value":"is"}
-{"time":21255,"type":"word","start":409,"end":418,"value":"necessary"}
+{"time":1305,"type":"sentence","start":13,"end":117,"value":"According to this conversation, what red flags did you notice that can indicate the caller is a scammer?"}
+{"time":1330,"type":"word","start":13,"end":22,"value":"According"}
+{"time":1692,"type":"word","start":23,"end":25,"value":"to"}
+{"time":1792,"type":"word","start":26,"end":30,"value":"this"}
+{"time":1967,"type":"word","start":31,"end":43,"value":"conversation"}
+{"time":2942,"type":"word","start":45,"end":49,"value":"what"}
+{"time":3180,"type":"word","start":50,"end":53,"value":"red"}
+{"time":3392,"type":"word","start":54,"end":59,"value":"flags"}
+{"time":3842,"type":"word","start":60,"end":63,"value":"did"}
+{"time":3992,"type":"word","start":64,"end":67,"value":"you"}
+{"time":4080,"type":"word","start":68,"end":74,"value":"notice"}
+{"time":4442,"type":"word","start":75,"end":79,"value":"that"}
+{"time":4580,"type":"word","start":80,"end":83,"value":"can"}
+{"time":4717,"type":"word","start":84,"end":92,"value":"indicate"}
+{"time":5092,"type":"word","start":93,"end":96,"value":"the"}
+{"time":5167,"type":"word","start":97,"end":103,"value":"caller"}
+{"time":5567,"type":"word","start":104,"end":106,"value":"is"}
+{"time":5680,"type":"word","start":107,"end":108,"value":"a"}
+{"time":5717,"type":"word","start":109,"end":116,"value":"scammer"}
+{"time":6685,"type":"sentence","start":118,"end":140,"value":"Select all that apply."}
+{"time":6710,"type":"word","start":118,"end":124,"value":"Select"}
+{"time":7110,"type":"word","start":125,"end":128,"value":"all"}
+{"time":7260,"type":"word","start":129,"end":133,"value":"that"}
+{"time":7372,"type":"word","start":134,"end":139,"value":"apply"}
+{"time":8327,"type":"sentence","start":141,"end":170,"value":"A. Inaccurate Family Details."}
+{"time":8352,"type":"word","start":141,"end":143,"value":"A."}
+{"time":8540,"type":"word","start":144,"end":154,"value":"Inaccurate"}
+{"time":9015,"type":"word","start":155,"end":161,"value":"Family"}
+{"time":9365,"type":"word","start":162,"end":169,"value":"Details"}
+{"time":10432,"type":"sentence","start":171,"end":199,"value":"B. Voice Sounding Different."}
+{"time":10457,"type":"word","start":171,"end":173,"value":"B."}
+{"time":10607,"type":"word","start":174,"end":179,"value":"Voice"}
+{"time":10895,"type":"word","start":180,"end":188,"value":"Sounding"}
+{"time":11295,"type":"word","start":189,"end":198,"value":"Different"}
+{"time":12150,"type":"sentence","start":200,"end":244,"value":"C. Pressure to Act Fast and Deter Questions."}
+{"time":12175,"type":"word","start":200,"end":202,"value":"C."}
+{"time":12412,"type":"word","start":203,"end":211,"value":"Pressure"}
+{"time":12787,"type":"word","start":212,"end":214,"value":"to"}
+{"time":12975,"type":"word","start":215,"end":218,"value":"Act"}
+{"time":13162,"type":"word","start":219,"end":223,"value":"Fast"}
+{"time":13575,"type":"word","start":224,"end":227,"value":"and"}
+{"time":13662,"type":"word","start":228,"end":233,"value":"Deter"}
+{"time":13937,"type":"word","start":234,"end":243,"value":"Questions"}
+{"time":15030,"type":"sentence","start":245,"end":288,"value":"D. Request for Untraceable Payment Methods."}
+{"time":15055,"type":"word","start":245,"end":247,"value":"D."}
+{"time":15255,"type":"word","start":248,"end":255,"value":"Request"}
+{"time":15730,"type":"word","start":256,"end":259,"value":"for"}
+{"time":15917,"type":"word","start":260,"end":271,"value":"Untraceable"}
+{"time":16455,"type":"word","start":272,"end":279,"value":"Payment"}
+{"time":16792,"type":"word","start":280,"end":287,"value":"Methods"}

@@ -1,75 +1,54 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 5."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":475,"type":"word","start":10,"end":11,"value":"5"}
-{"time":1417,"type":"sentence","start":13,"end":101,"value":"If a caller claims to be an official from the police department, how should you respond?"}
-{"time":1442,"type":"word","start":13,"end":15,"value":"If"}
-{"time":1592,"type":"word","start":16,"end":17,"value":"a"}
-{"time":1630,"type":"word","start":18,"end":24,"value":"caller"}
-{"time":1992,"type":"word","start":25,"end":31,"value":"claims"}
-{"time":2417,"type":"word","start":32,"end":34,"value":"to"}
-{"time":2517,"type":"word","start":35,"end":37,"value":"be"}
-{"time":2692,"type":"word","start":38,"end":40,"value":"an"}
-{"time":2767,"type":"word","start":41,"end":49,"value":"official"}
-{"time":3217,"type":"word","start":50,"end":54,"value":"from"}
-{"time":3405,"type":"word","start":55,"end":58,"value":"the"}
-{"time":3455,"type":"word","start":59,"end":65,"value":"police"}
-{"time":3867,"type":"word","start":66,"end":76,"value":"department"}
-{"time":4580,"type":"word","start":78,"end":81,"value":"how"}
-{"time":4742,"type":"word","start":82,"end":88,"value":"should"}
-{"time":4942,"type":"word","start":89,"end":92,"value":"you"}
-{"time":5042,"type":"word","start":93,"end":100,"value":"respond"}
-{"time":6135,"type":"sentence","start":102,"end":124,"value":"Select all that apply."}
-{"time":6160,"type":"word","start":102,"end":108,"value":"Select"}
-{"time":6635,"type":"word","start":109,"end":112,"value":"all"}
-{"time":6885,"type":"word","start":113,"end":117,"value":"that"}
-{"time":7085,"type":"word","start":118,"end":123,"value":"apply"}
-{"time":8065,"type":"sentence","start":127,"end":166,"value":"A. Ask for their identification number."}
-{"time":8090,"type":"word","start":127,"end":129,"value":"A."}
-{"time":8265,"type":"word","start":130,"end":133,"value":"Ask"}
-{"time":8552,"type":"word","start":134,"end":137,"value":"for"}
-{"time":8665,"type":"word","start":138,"end":143,"value":"their"}
-{"time":8852,"type":"word","start":144,"end":158,"value":"identification"}
-{"time":9690,"type":"word","start":159,"end":165,"value":"number"}
-{"time":10532,"type":"sentence","start":167,"end":240,"value":"B. Follow the caller’s request as they claim they are a police officer."}
-{"time":10557,"type":"word","start":167,"end":169,"value":"B."}
-{"time":10695,"type":"word","start":170,"end":176,"value":"Follow"}
-{"time":11020,"type":"word","start":177,"end":180,"value":"the"}
-{"time":11132,"type":"word","start":181,"end":191,"value":"caller’s"}
-{"time":11632,"type":"word","start":192,"end":199,"value":"request"}
-{"time":12095,"type":"word","start":200,"end":202,"value":"as"}
-{"time":12220,"type":"word","start":203,"end":207,"value":"they"}
-{"time":12332,"type":"word","start":208,"end":213,"value":"claim"}
-{"time":12732,"type":"word","start":214,"end":218,"value":"they"}
-{"time":12870,"type":"word","start":219,"end":222,"value":"are"}
-{"time":13045,"type":"word","start":223,"end":224,"value":"a"}
-{"time":13082,"type":"word","start":225,"end":231,"value":"police"}
-{"time":13532,"type":"word","start":232,"end":239,"value":"officer"}
-{"time":14587,"type":"sentence","start":241,"end":328,"value":"C. Initiate a separate call to the police department to verify the caller’s identity."}
-{"time":14612,"type":"word","start":241,"end":243,"value":"C."}
-{"time":14937,"type":"word","start":244,"end":252,"value":"Initiate"}
-{"time":15537,"type":"word","start":253,"end":254,"value":"a"}
-{"time":15612,"type":"word","start":255,"end":263,"value":"separate"}
-{"time":16025,"type":"word","start":264,"end":268,"value":"call"}
-{"time":16325,"type":"word","start":269,"end":271,"value":"to"}
-{"time":16450,"type":"word","start":272,"end":275,"value":"the"}
-{"time":16537,"type":"word","start":276,"end":282,"value":"police"}
-{"time":16987,"type":"word","start":283,"end":293,"value":"department"}
-{"time":17512,"type":"word","start":294,"end":296,"value":"to"}
-{"time":17637,"type":"word","start":297,"end":303,"value":"verify"}
-{"time":18137,"type":"word","start":304,"end":307,"value":"the"}
-{"time":18237,"type":"word","start":308,"end":318,"value":"caller’s"}
-{"time":18712,"type":"word","start":319,"end":327,"value":"identity"}
-{"time":19792,"type":"sentence","start":329,"end":408,"value":"D. Discuss the situation with your family member before you make any decisions."}
-{"time":19817,"type":"word","start":329,"end":331,"value":"D."}
-{"time":20055,"type":"word","start":332,"end":339,"value":"Discuss"}
-{"time":20492,"type":"word","start":340,"end":343,"value":"the"}
-{"time":20567,"type":"word","start":344,"end":353,"value":"situation"}
-{"time":21205,"type":"word","start":354,"end":358,"value":"with"}
-{"time":21367,"type":"word","start":359,"end":363,"value":"your"}
-{"time":21480,"type":"word","start":364,"end":370,"value":"family"}
-{"time":21892,"type":"word","start":371,"end":377,"value":"member"}
-{"time":22205,"type":"word","start":378,"end":384,"value":"before"}
-{"time":22542,"type":"word","start":385,"end":388,"value":"you"}
-{"time":22692,"type":"word","start":389,"end":393,"value":"make"}
-{"time":22967,"type":"word","start":394,"end":397,"value":"any"}
-{"time":23130,"type":"word","start":398,"end":407,"value":"decisions"}
+{"time":1417,"type":"sentence","start":13,"end":117,"value":"According to this conversation, what red flags did you notice that can indicate the caller is a scammer?"}
+{"time":1442,"type":"word","start":13,"end":22,"value":"According"}
+{"time":1880,"type":"word","start":23,"end":25,"value":"to"}
+{"time":2017,"type":"word","start":26,"end":30,"value":"this"}
+{"time":2217,"type":"word","start":31,"end":43,"value":"conversation"}
+{"time":3255,"type":"word","start":45,"end":49,"value":"what"}
+{"time":3442,"type":"word","start":50,"end":53,"value":"red"}
+{"time":3642,"type":"word","start":54,"end":59,"value":"flags"}
+{"time":4067,"type":"word","start":60,"end":63,"value":"did"}
+{"time":4230,"type":"word","start":64,"end":67,"value":"you"}
+{"time":4367,"type":"word","start":68,"end":74,"value":"notice"}
+{"time":4817,"type":"word","start":75,"end":79,"value":"that"}
+{"time":4967,"type":"word","start":80,"end":83,"value":"can"}
+{"time":5155,"type":"word","start":84,"end":92,"value":"indicate"}
+{"time":5630,"type":"word","start":93,"end":96,"value":"the"}
+{"time":5705,"type":"word","start":97,"end":103,"value":"caller"}
+{"time":6130,"type":"word","start":104,"end":106,"value":"is"}
+{"time":6292,"type":"word","start":107,"end":108,"value":"a"}
+{"time":6342,"type":"word","start":109,"end":116,"value":"scammer"}
+{"time":7347,"type":"sentence","start":118,"end":140,"value":"Select all that apply."}
+{"time":7372,"type":"word","start":118,"end":124,"value":"Select"}
+{"time":7847,"type":"word","start":125,"end":128,"value":"all"}
+{"time":8097,"type":"word","start":129,"end":133,"value":"that"}
+{"time":8297,"type":"word","start":134,"end":139,"value":"apply"}
+{"time":9277,"type":"sentence","start":141,"end":180,"value":"A. A Fear Inducing and Urgent Scenario."}
+{"time":9302,"type":"word","start":141,"end":142,"value":"A"}
+{"time":9827,"type":"word","start":144,"end":145,"value":"A"}
+{"time":9927,"type":"word","start":146,"end":150,"value":"Fear"}
+{"time":10240,"type":"word","start":151,"end":159,"value":"Inducing"}
+{"time":10877,"type":"word","start":160,"end":163,"value":"and"}
+{"time":11040,"type":"word","start":164,"end":170,"value":"Urgent"}
+{"time":11402,"type":"word","start":171,"end":179,"value":"Scenario"}
+{"time":12582,"type":"sentence","start":181,"end":209,"value":"B. Voice sounding Different."}
+{"time":12607,"type":"word","start":181,"end":183,"value":"B."}
+{"time":12795,"type":"word","start":184,"end":189,"value":"Voice"}
+{"time":13145,"type":"word","start":190,"end":198,"value":"sounding"}
+{"time":13607,"type":"word","start":199,"end":208,"value":"Different"}
+{"time":14612,"type":"sentence","start":210,"end":232,"value":"C. Demand for Secrecy."}
+{"time":14637,"type":"word","start":210,"end":212,"value":"C."}
+{"time":14937,"type":"word","start":213,"end":219,"value":"Demand"}
+{"time":15362,"type":"word","start":220,"end":223,"value":"for"}
+{"time":15487,"type":"word","start":224,"end":231,"value":"Secrecy"}
+{"time":16630,"type":"sentence","start":233,"end":277,"value":"D. Pressure to Act Fast and Deter Questions."}
+{"time":16655,"type":"word","start":233,"end":235,"value":"D."}
+{"time":16855,"type":"word","start":236,"end":244,"value":"Pressure"}
+{"time":17267,"type":"word","start":245,"end":247,"value":"to"}
+{"time":17417,"type":"word","start":248,"end":251,"value":"Act"}
+{"time":17692,"type":"word","start":252,"end":256,"value":"Fast"}
+{"time":18092,"type":"word","start":257,"end":260,"value":"and"}
+{"time":18242,"type":"word","start":261,"end":266,"value":"Deter"}
+{"time":18542,"type":"word","start":267,"end":276,"value":"Questions"}
