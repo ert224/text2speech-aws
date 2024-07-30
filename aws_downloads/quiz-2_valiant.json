@@ -1,0 +1,46 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 2."}
+{"time":25,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":412,"type":"word","start":10,"end":11,"value":"2"}
+{"time":1230,"type":"sentence","start":13,"end":117,"value":"In this conversation, what warning sign did you notice that could indicate that the caller is a scammer?"}
+{"time":1255,"type":"word","start":13,"end":15,"value":"In"}
+{"time":1380,"type":"word","start":16,"end":20,"value":"this"}
+{"time":1542,"type":"word","start":21,"end":33,"value":"conversation"}
+{"time":2505,"type":"word","start":35,"end":39,"value":"what"}
+{"time":2705,"type":"word","start":40,"end":47,"value":"warning"}
+{"time":3042,"type":"word","start":48,"end":52,"value":"sign"}
+{"time":3417,"type":"word","start":53,"end":56,"value":"did"}
+{"time":3555,"type":"word","start":57,"end":60,"value":"you"}
+{"time":3642,"type":"word","start":61,"end":67,"value":"notice"}
+{"time":4005,"type":"word","start":68,"end":72,"value":"that"}
+{"time":4130,"type":"word","start":73,"end":78,"value":"could"}
+{"time":4280,"type":"word","start":79,"end":87,"value":"indicate"}
+{"time":4692,"type":"word","start":88,"end":92,"value":"that"}
+{"time":4805,"type":"word","start":93,"end":96,"value":"the"}
+{"time":4880,"type":"word","start":97,"end":103,"value":"caller"}
+{"time":5267,"type":"word","start":104,"end":106,"value":"is"}
+{"time":5380,"type":"word","start":107,"end":108,"value":"a"}
+{"time":5417,"type":"word","start":109,"end":116,"value":"scammer"}
+{"time":6385,"type":"sentence","start":120,"end":149,"value":"A. Inaccurate Family Details."}
+{"time":6410,"type":"word","start":120,"end":122,"value":"A."}
+{"time":6597,"type":"word","start":123,"end":133,"value":"Inaccurate"}
+{"time":7072,"type":"word","start":134,"end":140,"value":"Family"}
+{"time":7422,"type":"word","start":141,"end":148,"value":"Details"}
+{"time":8490,"type":"sentence","start":151,"end":179,"value":"B. Voice Sounding Distorted."}
+{"time":8515,"type":"word","start":151,"end":153,"value":"B."}
+{"time":8677,"type":"word","start":154,"end":159,"value":"Voice"}
+{"time":8977,"type":"word","start":160,"end":168,"value":"Sounding"}
+{"time":9352,"type":"word","start":169,"end":178,"value":"Distorted"}
+{"time":10332,"type":"sentence","start":180,"end":224,"value":"C. Pressure to Act Fast and Deter Questions."}
+{"time":10357,"type":"word","start":180,"end":182,"value":"C."}
+{"time":10595,"type":"word","start":183,"end":191,"value":"Pressure"}
+{"time":10970,"type":"word","start":192,"end":194,"value":"to"}
+{"time":11157,"type":"word","start":195,"end":198,"value":"Act"}
+{"time":11345,"type":"word","start":199,"end":203,"value":"Fast"}
+{"time":11757,"type":"word","start":204,"end":207,"value":"and"}
+{"time":11845,"type":"word","start":208,"end":213,"value":"Deter"}
+{"time":12120,"type":"word","start":214,"end":223,"value":"Questions"}
+{"time":13212,"type":"sentence","start":226,"end":248,"value":"D. Demand for Secrecy."}
+{"time":13237,"type":"word","start":226,"end":228,"value":"D."}
+{"time":13425,"type":"word","start":229,"end":235,"value":"Demand"}
+{"time":13800,"type":"word","start":236,"end":239,"value":"for"}
+{"time":13900,"type":"word","start":240,"end":247,"value":"Secrecy"}

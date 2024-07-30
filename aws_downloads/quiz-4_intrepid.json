@@ -1,0 +1,48 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 4."}
+{"time":137,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":562,"type":"word","start":10,"end":11,"value":"4"}
+{"time":1505,"type":"sentence","start":13,"end":121,"value":"According to this conversation, what warning signs did you notice that can indicate the caller is a scammer?"}
+{"time":1692,"type":"word","start":13,"end":22,"value":"According"}
+{"time":2067,"type":"word","start":23,"end":25,"value":"to"}
+{"time":2217,"type":"word","start":26,"end":30,"value":"this"}
+{"time":2442,"type":"word","start":31,"end":43,"value":"conversation"}
+{"time":3380,"type":"word","start":45,"end":49,"value":"what"}
+{"time":3592,"type":"word","start":50,"end":57,"value":"warning"}
+{"time":3930,"type":"word","start":58,"end":63,"value":"signs"}
+{"time":4255,"type":"word","start":64,"end":67,"value":"did"}
+{"time":4392,"type":"word","start":68,"end":71,"value":"you"}
+{"time":4505,"type":"word","start":72,"end":78,"value":"notice"}
+{"time":4880,"type":"word","start":79,"end":83,"value":"that"}
+{"time":5005,"type":"word","start":84,"end":87,"value":"can"}
+{"time":5192,"type":"word","start":88,"end":96,"value":"indicate"}
+{"time":5630,"type":"word","start":97,"end":100,"value":"the"}
+{"time":5755,"type":"word","start":101,"end":107,"value":"caller"}
+{"time":6217,"type":"word","start":108,"end":110,"value":"is"}
+{"time":6267,"type":"word","start":111,"end":112,"value":"a"}
+{"time":6380,"type":"word","start":113,"end":120,"value":"scammer"}
+{"time":7310,"type":"sentence","start":122,"end":151,"value":"A. Inaccurate Family Details."}
+{"time":7510,"type":"word","start":122,"end":124,"value":"A."}
+{"time":7622,"type":"word","start":125,"end":135,"value":"Inaccurate"}
+{"time":8247,"type":"word","start":136,"end":142,"value":"Family"}
+{"time":8622,"type":"word","start":143,"end":150,"value":"Details"}
+{"time":9727,"type":"sentence","start":152,"end":180,"value":"B. Voice Sounding Distorted."}
+{"time":9865,"type":"word","start":152,"end":154,"value":"B."}
+{"time":10040,"type":"word","start":155,"end":160,"value":"Voice"}
+{"time":10352,"type":"word","start":161,"end":169,"value":"Sounding"}
+{"time":10790,"type":"word","start":170,"end":179,"value":"Distorted"}
+{"time":11832,"type":"sentence","start":181,"end":225,"value":"C. Pressure to Act Fast and Deter Questions."}
+{"time":12032,"type":"word","start":181,"end":183,"value":"C."}
+{"time":12207,"type":"word","start":184,"end":192,"value":"Pressure"}
+{"time":12582,"type":"word","start":193,"end":195,"value":"to"}
+{"time":12832,"type":"word","start":196,"end":199,"value":"Act"}
+{"time":13082,"type":"word","start":200,"end":204,"value":"Fast"}
+{"time":13420,"type":"word","start":205,"end":208,"value":"and"}
+{"time":13557,"type":"word","start":209,"end":214,"value":"Deter"}
+{"time":13870,"type":"word","start":215,"end":224,"value":"Questions"}
+{"time":14987,"type":"sentence","start":226,"end":269,"value":"D. Request for Untraceable Payment Methods."}
+{"time":15175,"type":"word","start":226,"end":228,"value":"D."}
+{"time":15300,"type":"word","start":229,"end":236,"value":"Request"}
+{"time":15825,"type":"word","start":237,"end":240,"value":"for"}
+{"time":16025,"type":"word","start":241,"end":252,"value":"Untraceable"}
+{"time":16737,"type":"word","start":253,"end":260,"value":"Payment"}
+{"time":17112,"type":"word","start":261,"end":268,"value":"Methods"}

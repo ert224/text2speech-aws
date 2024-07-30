@@ -1,10 +1,19 @@
 import json
 import re
+import os
 
+filename = os.environ.get('filename')
 data = None
 first_json_file = "./index_format/daring.json"
 with open(first_json_file, 'r', encoding="utf-8") as file:
     data = json.load(file)
+    
+def check_string(input_string):
+    pattern = r'^[A-Za-z]\.$'  # Pattern to match any single alphabet character followed by a period
+    if re.match(pattern, input_string):
+        return True
+    else:
+        return False
     
 # Extract the data
 entries = data['daring']
@@ -12,24 +21,23 @@ entries = data['daring']
 # Initialize variables to keep track of sentence punctuation
 words = None
 index = 0 
-sentence_id = -1
+sentence_id = 1
 # Iterate through the entries
 for entry in entries:
     if entry['type'] == 'sentence':
         current_sentence = entry['value']
         clean_paragraph = re.sub(r'\s+', ' ', current_sentence).strip()
         words = clean_paragraph.split(' ')
-        index = 0
-        sentence_id+=1
+        index = 0            
+        if check_string(words[0]):
+            sentence_id+=1
     elif entry['type'] == 'word':
         if entry['value'] in words[index]:
             entry['value'] = words[index]
-            if sentence_id==0:
-                entry['element'] =  entry['element'].replace('--', f'-title-')
-            else: 
-                entry['element'] =  entry['element'].replace('--', f'-{sentence_id}-')
+            entry['element'] =  entry['element'].replace('--', f'-{sentence_id}-')                            
             index+=1
-            
+
+                
 
 # Filter out entries of type "sentence"
 final_data = [entry for entry in entries if entry['type'] != 'sentence']

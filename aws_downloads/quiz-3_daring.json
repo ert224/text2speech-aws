@@ -1,0 +1,53 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 3."}
+{"time":25,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":512,"type":"word","start":10,"end":11,"value":"3"}
+{"time":1305,"type":"sentence","start":13,"end":118,"value":"In this conversation, what warning signs did you notice that could indicate that the caller is a scammer?"}
+{"time":1330,"type":"word","start":13,"end":15,"value":"In"}
+{"time":1480,"type":"word","start":16,"end":20,"value":"this"}
+{"time":1680,"type":"word","start":21,"end":33,"value":"conversation"}
+{"time":2780,"type":"word","start":35,"end":39,"value":"what"}
+{"time":2930,"type":"word","start":40,"end":47,"value":"warning"}
+{"time":3267,"type":"word","start":48,"end":53,"value":"signs"}
+{"time":3680,"type":"word","start":54,"end":57,"value":"did"}
+{"time":3842,"type":"word","start":58,"end":61,"value":"you"}
+{"time":3980,"type":"word","start":62,"end":68,"value":"notice"}
+{"time":4430,"type":"word","start":69,"end":73,"value":"that"}
+{"time":4580,"type":"word","start":74,"end":79,"value":"could"}
+{"time":4742,"type":"word","start":80,"end":88,"value":"indicate"}
+{"time":5255,"type":"word","start":89,"end":93,"value":"that"}
+{"time":5417,"type":"word","start":94,"end":97,"value":"the"}
+{"time":5480,"type":"word","start":98,"end":104,"value":"caller"}
+{"time":5905,"type":"word","start":105,"end":107,"value":"is"}
+{"time":6067,"type":"word","start":108,"end":109,"value":"a"}
+{"time":6117,"type":"word","start":110,"end":117,"value":"scammer"}
+{"time":7122,"type":"sentence","start":119,"end":141,"value":"Select all that apply."}
+{"time":7147,"type":"word","start":119,"end":125,"value":"Select"}
+{"time":7622,"type":"word","start":126,"end":129,"value":"all"}
+{"time":7872,"type":"word","start":130,"end":134,"value":"that"}
+{"time":8072,"type":"word","start":135,"end":140,"value":"apply"}
+{"time":9302,"type":"sentence","start":143,"end":182,"value":"A. A Fear Inducing and Urgent Scenario."}
+{"time":9327,"type":"word","start":143,"end":144,"value":"A"}
+{"time":9852,"type":"word","start":146,"end":147,"value":"A"}
+{"time":9952,"type":"word","start":148,"end":152,"value":"Fear"}
+{"time":10264,"type":"word","start":153,"end":161,"value":"Inducing"}
+{"time":10902,"type":"word","start":162,"end":165,"value":"and"}
+{"time":11064,"type":"word","start":166,"end":172,"value":"Urgent"}
+{"time":11427,"type":"word","start":173,"end":181,"value":"Scenario"}
+{"time":12607,"type":"sentence","start":183,"end":202,"value":"B. Distorted Voice."}
+{"time":12632,"type":"word","start":183,"end":185,"value":"B."}
+{"time":12782,"type":"word","start":186,"end":195,"value":"Distorted"}
+{"time":13307,"type":"word","start":196,"end":201,"value":"Voice"}
+{"time":14337,"type":"sentence","start":203,"end":247,"value":"C. Pressure to Act Fast and Deter Questions."}
+{"time":14362,"type":"word","start":203,"end":205,"value":"C."}
+{"time":14637,"type":"word","start":206,"end":214,"value":"Pressure"}
+{"time":15062,"type":"word","start":215,"end":217,"value":"to"}
+{"time":15212,"type":"word","start":218,"end":221,"value":"Act"}
+{"time":15487,"type":"word","start":222,"end":226,"value":"Fast"}
+{"time":15887,"type":"word","start":227,"end":230,"value":"and"}
+{"time":16049,"type":"word","start":231,"end":236,"value":"Deter"}
+{"time":16349,"type":"word","start":237,"end":246,"value":"Questions"}
+{"time":17554,"type":"sentence","start":248,"end":270,"value":"D. Demand for Secrecy."}
+{"time":17579,"type":"word","start":248,"end":250,"value":"D."}
+{"time":17842,"type":"word","start":251,"end":257,"value":"Demand"}
+{"time":18267,"type":"word","start":258,"end":261,"value":"for"}
+{"time":18392,"type":"word","start":262,"end":269,"value":"Secrecy"}
