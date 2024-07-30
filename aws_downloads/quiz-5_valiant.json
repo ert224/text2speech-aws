@@ -1,0 +1,75 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 5."}
+{"time":25,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":412,"type":"word","start":10,"end":11,"value":"5"}
+{"time":1330,"type":"sentence","start":13,"end":101,"value":"If a caller claims to be an official from the police department, how should you respond?"}
+{"time":1355,"type":"word","start":13,"end":15,"value":"If"}
+{"time":1505,"type":"word","start":16,"end":17,"value":"a"}
+{"time":1555,"type":"word","start":18,"end":24,"value":"caller"}
+{"time":1905,"type":"word","start":25,"end":31,"value":"claims"}
+{"time":2292,"type":"word","start":32,"end":34,"value":"to"}
+{"time":2367,"type":"word","start":35,"end":37,"value":"be"}
+{"time":2517,"type":"word","start":38,"end":40,"value":"an"}
+{"time":2592,"type":"word","start":41,"end":49,"value":"official"}
+{"time":3005,"type":"word","start":50,"end":54,"value":"from"}
+{"time":3192,"type":"word","start":55,"end":58,"value":"the"}
+{"time":3267,"type":"word","start":59,"end":65,"value":"police"}
+{"time":3605,"type":"word","start":66,"end":76,"value":"department"}
+{"time":4292,"type":"word","start":78,"end":81,"value":"how"}
+{"time":4430,"type":"word","start":82,"end":88,"value":"should"}
+{"time":4642,"type":"word","start":89,"end":92,"value":"you"}
+{"time":4717,"type":"word","start":93,"end":100,"value":"respond"}
+{"time":5747,"type":"sentence","start":102,"end":124,"value":"Select all that apply."}
+{"time":5772,"type":"word","start":102,"end":108,"value":"Select"}
+{"time":6172,"type":"word","start":109,"end":112,"value":"all"}
+{"time":6322,"type":"word","start":113,"end":117,"value":"that"}
+{"time":6435,"type":"word","start":118,"end":123,"value":"apply"}
+{"time":7390,"type":"sentence","start":127,"end":166,"value":"A. Ask for their identification number."}
+{"time":7415,"type":"word","start":127,"end":129,"value":"A."}
+{"time":7627,"type":"word","start":130,"end":133,"value":"Ask"}
+{"time":7865,"type":"word","start":134,"end":137,"value":"for"}
+{"time":7965,"type":"word","start":138,"end":143,"value":"their"}
+{"time":8140,"type":"word","start":144,"end":158,"value":"identification"}
+{"time":8840,"type":"word","start":159,"end":165,"value":"number"}
+{"time":9670,"type":"sentence","start":167,"end":240,"value":"B. Follow the caller’s request as they claim they are a police officer."}
+{"time":9695,"type":"word","start":167,"end":169,"value":"B."}
+{"time":9870,"type":"word","start":170,"end":176,"value":"Follow"}
+{"time":10170,"type":"word","start":177,"end":180,"value":"the"}
+{"time":10270,"type":"word","start":181,"end":191,"value":"caller’s"}
+{"time":10695,"type":"word","start":192,"end":199,"value":"request"}
+{"time":11157,"type":"word","start":200,"end":202,"value":"as"}
+{"time":11257,"type":"word","start":203,"end":207,"value":"they"}
+{"time":11370,"type":"word","start":208,"end":213,"value":"claim"}
+{"time":11720,"type":"word","start":214,"end":218,"value":"they"}
+{"time":11845,"type":"word","start":219,"end":222,"value":"are"}
+{"time":11945,"type":"word","start":223,"end":224,"value":"a"}
+{"time":11982,"type":"word","start":225,"end":231,"value":"police"}
+{"time":12370,"type":"word","start":232,"end":239,"value":"officer"}
+{"time":13362,"type":"sentence","start":241,"end":328,"value":"C. Initiate a separate call to the police department to verify the caller’s identity."}
+{"time":13387,"type":"word","start":241,"end":243,"value":"C."}
+{"time":13650,"type":"word","start":244,"end":252,"value":"Initiate"}
+{"time":14087,"type":"word","start":253,"end":254,"value":"a"}
+{"time":14137,"type":"word","start":255,"end":263,"value":"separate"}
+{"time":14537,"type":"word","start":264,"end":268,"value":"call"}
+{"time":14812,"type":"word","start":269,"end":271,"value":"to"}
+{"time":14925,"type":"word","start":272,"end":275,"value":"the"}
+{"time":15012,"type":"word","start":276,"end":282,"value":"police"}
+{"time":15362,"type":"word","start":283,"end":293,"value":"department"}
+{"time":15825,"type":"word","start":294,"end":296,"value":"to"}
+{"time":15912,"type":"word","start":297,"end":303,"value":"verify"}
+{"time":16350,"type":"word","start":304,"end":307,"value":"the"}
+{"time":16437,"type":"word","start":308,"end":318,"value":"caller’s"}
+{"time":16800,"type":"word","start":319,"end":327,"value":"identity"}
+{"time":17780,"type":"sentence","start":329,"end":408,"value":"D. Discuss the situation with your family member before you make any decisions."}
+{"time":17805,"type":"word","start":329,"end":331,"value":"D."}
+{"time":18005,"type":"word","start":332,"end":339,"value":"Discuss"}
+{"time":18417,"type":"word","start":340,"end":343,"value":"the"}
+{"time":18505,"type":"word","start":344,"end":353,"value":"situation"}
+{"time":19117,"type":"word","start":354,"end":358,"value":"with"}
+{"time":19255,"type":"word","start":359,"end":363,"value":"your"}
+{"time":19355,"type":"word","start":364,"end":370,"value":"family"}
+{"time":19730,"type":"word","start":371,"end":377,"value":"member"}
+{"time":20042,"type":"word","start":378,"end":384,"value":"before"}
+{"time":20405,"type":"word","start":385,"end":388,"value":"you"}
+{"time":20517,"type":"word","start":389,"end":393,"value":"make"}
+{"time":20755,"type":"word","start":394,"end":397,"value":"any"}
+{"time":20880,"type":"word","start":398,"end":407,"value":"decisions"}

@@ -1,0 +1,24 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 1."}
+{"time":25,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":450,"type":"word","start":10,"end":11,"value":"1"}
+{"time":1242,"type":"sentence","start":13,"end":119,"value":"Is it important to be careful about sharing your family’s information, including names, on social media?"}
+{"time":1267,"type":"word","start":13,"end":15,"value":"Is"}
+{"time":1417,"type":"word","start":16,"end":18,"value":"it"}
+{"time":1480,"type":"word","start":19,"end":28,"value":"important"}
+{"time":1905,"type":"word","start":29,"end":31,"value":"to"}
+{"time":1967,"type":"word","start":32,"end":34,"value":"be"}
+{"time":2092,"type":"word","start":35,"end":42,"value":"careful"}
+{"time":2517,"type":"word","start":43,"end":48,"value":"about"}
+{"time":2755,"type":"word","start":49,"end":56,"value":"sharing"}
+{"time":3080,"type":"word","start":57,"end":61,"value":"your"}
+{"time":3180,"type":"word","start":62,"end":72,"value":"family’s"}
+{"time":3655,"type":"word","start":73,"end":84,"value":"information"}
+{"time":4492,"type":"word","start":86,"end":95,"value":"including"}
+{"time":4917,"type":"word","start":96,"end":101,"value":"names"}
+{"time":5567,"type":"word","start":103,"end":105,"value":"on"}
+{"time":5705,"type":"word","start":106,"end":112,"value":"social"}
+{"time":6030,"type":"word","start":113,"end":118,"value":"media"}
+{"time":6947,"type":"sentence","start":120,"end":130,"value":"Yes or No?"}
+{"time":6972,"type":"word","start":120,"end":123,"value":"Yes"}
+{"time":7235,"type":"word","start":124,"end":126,"value":"or"}
+{"time":7310,"type":"word","start":127,"end":129,"value":"No"}

@@ -1,0 +1,29 @@
+{"time":0,"type":"sentence","start":1,"end":10,"value":"Reflect ."}
+{"time":187,"type":"word","start":1,"end":8,"value":"Reflect"}
+{"time":1192,"type":"sentence","start":11,"end":56,"value":"Take a moment to think about the following: ."}
+{"time":1380,"type":"word","start":11,"end":15,"value":"Take"}
+{"time":1567,"type":"word","start":16,"end":17,"value":"a"}
+{"time":1642,"type":"word","start":18,"end":24,"value":"moment"}
+{"time":2005,"type":"word","start":25,"end":27,"value":"to"}
+{"time":2130,"type":"word","start":28,"end":33,"value":"think"}
+{"time":2330,"type":"word","start":34,"end":39,"value":"about"}
+{"time":2567,"type":"word","start":40,"end":43,"value":"the"}
+{"time":2755,"type":"word","start":44,"end":53,"value":"following"}
+{"time":3735,"type":"sentence","start":57,"end":176,"value":"What newfound knowledge did you find particularly helpful in protecting your family and friends from grandparent scams?"}
+{"time":3872,"type":"word","start":57,"end":61,"value":"What"}
+{"time":4047,"type":"word","start":62,"end":70,"value":"newfound"}
+{"time":4572,"type":"word","start":71,"end":80,"value":"knowledge"}
+{"time":4985,"type":"word","start":81,"end":84,"value":"did"}
+{"time":5172,"type":"word","start":85,"end":88,"value":"you"}
+{"time":5297,"type":"word","start":89,"end":93,"value":"find"}
+{"time":5585,"type":"word","start":94,"end":106,"value":"particularly"}
+{"time":6360,"type":"word","start":107,"end":114,"value":"helpful"}
+{"time":6735,"type":"word","start":115,"end":117,"value":"in"}
+{"time":6860,"type":"word","start":118,"end":128,"value":"protecting"}
+{"time":7360,"type":"word","start":129,"end":133,"value":"your"}
+{"time":7497,"type":"word","start":134,"end":140,"value":"family"}
+{"time":7922,"type":"word","start":141,"end":144,"value":"and"}
+{"time":8097,"type":"word","start":145,"end":152,"value":"friends"}
+{"time":8447,"type":"word","start":153,"end":157,"value":"from"}
+{"time":8610,"type":"word","start":158,"end":169,"value":"grandparent"}
+{"time":9235,"type":"word","start":170,"end":175,"value":"scams"}

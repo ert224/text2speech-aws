@@ -1,0 +1,82 @@
+{"time":0,"type":"sentence","start":1,"end":12,"value":"Question 3."}
+{"time":25,"type":"word","start":1,"end":9,"value":"Question"}
+{"time":512,"type":"word","start":10,"end":11,"value":"3"}
+{"time":1305,"type":"sentence","start":13,"end":112,"value":"Which are recommended strategies to verify the identity of a caller claiming to be your grandchild?"}
+{"time":1330,"type":"word","start":13,"end":18,"value":"Which"}
+{"time":1517,"type":"word","start":19,"end":22,"value":"are"}
+{"time":1630,"type":"word","start":23,"end":34,"value":"recommended"}
+{"time":2230,"type":"word","start":35,"end":45,"value":"strategies"}
+{"time":2817,"type":"word","start":46,"end":48,"value":"to"}
+{"time":2917,"type":"word","start":49,"end":55,"value":"verify"}
+{"time":3405,"type":"word","start":56,"end":59,"value":"the"}
+{"time":3555,"type":"word","start":60,"end":68,"value":"identity"}
+{"time":4067,"type":"word","start":69,"end":71,"value":"of"}
+{"time":4217,"type":"word","start":72,"end":73,"value":"a"}
+{"time":4255,"type":"word","start":74,"end":80,"value":"caller"}
+{"time":4642,"type":"word","start":81,"end":89,"value":"claiming"}
+{"time":5055,"type":"word","start":90,"end":92,"value":"to"}
+{"time":5167,"type":"word","start":93,"end":95,"value":"be"}
+{"time":5292,"type":"word","start":96,"end":100,"value":"your"}
+{"time":5430,"type":"word","start":101,"end":111,"value":"grandchild"}
+{"time":6772,"type":"sentence","start":113,"end":135,"value":"Select all that apply."}
+{"time":6797,"type":"word","start":113,"end":119,"value":"Select"}
+{"time":7272,"type":"word","start":120,"end":123,"value":"all"}
+{"time":7522,"type":"word","start":124,"end":128,"value":"that"}
+{"time":7722,"type":"word","start":129,"end":134,"value":"apply"}
+{"time":8702,"type":"sentence","start":137,"end":199,"value":"A. Ask them to provide their social media profile information."}
+{"time":8727,"type":"word","start":137,"end":139,"value":"A."}
+{"time":8902,"type":"word","start":140,"end":143,"value":"Ask"}
+{"time":9190,"type":"word","start":144,"end":148,"value":"them"}
+{"time":9315,"type":"word","start":149,"end":151,"value":"to"}
+{"time":9427,"type":"word","start":152,"end":159,"value":"provide"}
+{"time":9865,"type":"word","start":160,"end":165,"value":"their"}
+{"time":10002,"type":"word","start":166,"end":172,"value":"social"}
+{"time":10402,"type":"word","start":173,"end":178,"value":"media"}
+{"time":10727,"type":"word","start":179,"end":186,"value":"profile"}
+{"time":11252,"type":"word","start":187,"end":198,"value":"information"}
+{"time":12545,"type":"sentence","start":200,"end":274,"value":"B. Share personal information about your family to confirm their identity."}
+{"time":12570,"type":"word","start":200,"end":202,"value":"B."}
+{"time":12732,"type":"word","start":203,"end":208,"value":"Share"}
+{"time":13007,"type":"word","start":209,"end":217,"value":"personal"}
+{"time":13470,"type":"word","start":218,"end":229,"value":"information"}
+{"time":14132,"type":"word","start":230,"end":235,"value":"about"}
+{"time":14382,"type":"word","start":236,"end":240,"value":"your"}
+{"time":14482,"type":"word","start":241,"end":247,"value":"family"}
+{"time":14870,"type":"word","start":248,"end":250,"value":"to"}
+{"time":14982,"type":"word","start":251,"end":258,"value":"confirm"}
+{"time":15407,"type":"word","start":259,"end":264,"value":"their"}
+{"time":15582,"type":"word","start":265,"end":273,"value":"identity"}
+{"time":16612,"type":"sentence","start":275,"end":369,"value":"C. Contact your grandchild or their parents through a known method to confirm they called you."}
+{"time":16637,"type":"word","start":275,"end":277,"value":"C."}
+{"time":16900,"type":"word","start":278,"end":285,"value":"Contact"}
+{"time":17425,"type":"word","start":286,"end":290,"value":"your"}
+{"time":17537,"type":"word","start":291,"end":301,"value":"grandchild"}
+{"time":18337,"type":"word","start":302,"end":304,"value":"or"}
+{"time":18475,"type":"word","start":305,"end":310,"value":"their"}
+{"time":18625,"type":"word","start":311,"end":318,"value":"parents"}
+{"time":19137,"type":"word","start":319,"end":326,"value":"through"}
+{"time":19275,"type":"word","start":327,"end":328,"value":"a"}
+{"time":19312,"type":"word","start":329,"end":334,"value":"known"}
+{"time":19612,"type":"word","start":335,"end":341,"value":"method"}
+{"time":19900,"type":"word","start":342,"end":344,"value":"to"}
+{"time":20012,"type":"word","start":345,"end":352,"value":"confirm"}
+{"time":20400,"type":"word","start":353,"end":357,"value":"they"}
+{"time":20525,"type":"word","start":358,"end":364,"value":"called"}
+{"time":20887,"type":"word","start":365,"end":368,"value":"you"}
+{"time":21605,"type":"sentence","start":370,"end":460,"value":"D. Establish a secret word or question that only your grandchild would know the answer to."}
+{"time":21630,"type":"word","start":370,"end":372,"value":"D."}
+{"time":21830,"type":"word","start":373,"end":382,"value":"Establish"}
+{"time":22392,"type":"word","start":383,"end":384,"value":"a"}
+{"time":22442,"type":"word","start":385,"end":391,"value":"secret"}
+{"time":22867,"type":"word","start":392,"end":396,"value":"word"}
+{"time":23167,"type":"word","start":397,"end":399,"value":"or"}
+{"time":23280,"type":"word","start":400,"end":408,"value":"question"}
+{"time":23855,"type":"word","start":409,"end":413,"value":"that"}
+{"time":24042,"type":"word","start":414,"end":418,"value":"only"}
+{"time":24317,"type":"word","start":419,"end":423,"value":"your"}
+{"time":24455,"type":"word","start":424,"end":434,"value":"grandchild"}
+{"time":25167,"type":"word","start":435,"end":440,"value":"would"}
+{"time":25305,"type":"word","start":441,"end":445,"value":"know"}
+{"time":25505,"type":"word","start":446,"end":449,"value":"the"}
+{"time":25667,"type":"word","start":450,"end":456,"value":"answer"}
+{"time":26017,"type":"word","start":457,"end":459,"value":"to"}
