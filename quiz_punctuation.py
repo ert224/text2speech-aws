@@ -14,7 +14,11 @@ def check_string(input_string):
         return True
     else:
         return False
-    
+
+# Function to increment a character
+def increment_char(char):
+    return chr(ord(char) + 1)
+
 # Extract the data
 entries = data['daring']
 
@@ -22,20 +26,39 @@ entries = data['daring']
 words = None
 index = 0 
 sentence_id = 1
+letter = chr(ord('a') - 1)
+holdBool = False 
 # Iterate through the entries
 for entry in entries:
     if entry['type'] == 'sentence':
         current_sentence = entry['value']
         clean_paragraph = re.sub(r'\s+', ' ', current_sentence).strip()
         words = clean_paragraph.split(' ')
-        index = 0            
+        index = 0
+        if "Select all that apply" in current_sentence:
+            print("Slect")
+            holdBool = True        
         if check_string(words[0]):
             sentence_id+=1
+            letter = increment_char(letter)  # Increment the letter
+            print(letter)
     elif entry['type'] == 'word':
-        if entry['value'] in words[index]:
-            entry['value'] = words[index]
-            entry['element'] =  entry['element'].replace('--', f'-{sentence_id}-')                            
-            index+=1
+        if not holdBool: 
+            if entry['value'] in words[index]:
+                entry['value'] = words[index]
+                if sentence_id==1:
+                    entry['element'] = 'narrate-1-quiz'
+                else: 
+                    entry['element'] =  entry['element'].replace('--', f'-{letter}-')
+                index+=1
+        else: 
+            if entry['value'] in words[index]:
+                entry['value'] = words[index]
+                if sentence_id==1:
+                    entry['element'] = 'narrate-1-quiz'
+                else: 
+                    entry['element'] =  entry['element'].replace('--', f'-{sentence_id}-')
+                index+=1
 
                 
 

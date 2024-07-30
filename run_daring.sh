@@ -14,7 +14,7 @@ wait
 
 # Run the second Python script
 echo "Running fix_punctuation.py ..."
-if [[ "$filename" == *"quiz"* ]]; then
+if [[ "$filename" == *"quiz"* && "$filename" != "quiz-results" ]]; then
     python quiz_punctuation.py  
 else 
     python fix_punctuation.py 
