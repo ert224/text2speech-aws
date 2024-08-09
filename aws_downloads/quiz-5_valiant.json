@@ -1,54 +1,68 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 5."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":412,"type":"word","start":10,"end":11,"value":"5"}
-{"time":1330,"type":"sentence","start":13,"end":117,"value":"According to this conversation, what red flags did you notice that can indicate the caller is a scammer?"}
-{"time":1355,"type":"word","start":13,"end":22,"value":"According"}
-{"time":1717,"type":"word","start":23,"end":25,"value":"to"}
-{"time":1817,"type":"word","start":26,"end":30,"value":"this"}
-{"time":1992,"type":"word","start":31,"end":43,"value":"conversation"}
-{"time":2967,"type":"word","start":45,"end":49,"value":"what"}
-{"time":3205,"type":"word","start":50,"end":53,"value":"red"}
-{"time":3417,"type":"word","start":54,"end":59,"value":"flags"}
-{"time":3867,"type":"word","start":60,"end":63,"value":"did"}
-{"time":4017,"type":"word","start":64,"end":67,"value":"you"}
-{"time":4105,"type":"word","start":68,"end":74,"value":"notice"}
-{"time":4467,"type":"word","start":75,"end":79,"value":"that"}
-{"time":4605,"type":"word","start":80,"end":83,"value":"can"}
-{"time":4742,"type":"word","start":84,"end":92,"value":"indicate"}
-{"time":5117,"type":"word","start":93,"end":96,"value":"the"}
-{"time":5192,"type":"word","start":97,"end":103,"value":"caller"}
-{"time":5592,"type":"word","start":104,"end":106,"value":"is"}
-{"time":5705,"type":"word","start":107,"end":108,"value":"a"}
-{"time":5742,"type":"word","start":109,"end":116,"value":"scammer"}
-{"time":6710,"type":"sentence","start":118,"end":140,"value":"Select all that apply."}
-{"time":6735,"type":"word","start":118,"end":124,"value":"Select"}
-{"time":7135,"type":"word","start":125,"end":128,"value":"all"}
-{"time":7285,"type":"word","start":129,"end":133,"value":"that"}
-{"time":7397,"type":"word","start":134,"end":139,"value":"apply"}
-{"time":8352,"type":"sentence","start":141,"end":180,"value":"A. A Fear Inducing and Urgent Scenario."}
-{"time":8359,"type":"word","start":141,"end":142,"value":"A"}
-{"time":9117,"type":"word","start":144,"end":145,"value":"A"}
-{"time":9188,"type":"word","start":146,"end":150,"value":"Fear"}
-{"time":9500,"type":"word","start":151,"end":159,"value":"Inducing"}
-{"time":9948,"type":"word","start":160,"end":163,"value":"and"}
-{"time":10037,"type":"word","start":164,"end":170,"value":"Urgent"}
-{"time":10298,"type":"word","start":171,"end":179,"value":"Scenario"}
-{"time":11383,"type":"sentence","start":181,"end":209,"value":"B. Voice sounding Different."}
-{"time":11408,"type":"word","start":181,"end":183,"value":"B."}
-{"time":11558,"type":"word","start":184,"end":189,"value":"Voice"}
-{"time":11845,"type":"word","start":190,"end":198,"value":"sounding"}
-{"time":12245,"type":"word","start":199,"end":208,"value":"Different"}
-{"time":13100,"type":"sentence","start":210,"end":232,"value":"C. Demand for Secrecy."}
-{"time":13125,"type":"word","start":210,"end":212,"value":"C."}
-{"time":13388,"type":"word","start":213,"end":219,"value":"Demand"}
-{"time":13750,"type":"word","start":220,"end":223,"value":"for"}
-{"time":13850,"type":"word","start":224,"end":231,"value":"Secrecy"}
-{"time":14930,"type":"sentence","start":233,"end":277,"value":"D. Pressure to Act Fast and Deter Questions."}
-{"time":14955,"type":"word","start":233,"end":235,"value":"D."}
-{"time":15143,"type":"word","start":236,"end":244,"value":"Pressure"}
-{"time":15518,"type":"word","start":245,"end":247,"value":"to"}
-{"time":15705,"type":"word","start":248,"end":251,"value":"Act"}
-{"time":15893,"type":"word","start":252,"end":256,"value":"Fast"}
-{"time":16305,"type":"word","start":257,"end":260,"value":"and"}
-{"time":16393,"type":"word","start":261,"end":266,"value":"Deter"}
-{"time":16668,"type":"word","start":267,"end":276,"value":"Questions"}
+{"time":1330,"type":"sentence","start":13,"end":120,"value":"Which of the following preventative measures can grandparents take to avoid falling into grandparent scams?"}
+{"time":1355,"type":"word","start":13,"end":18,"value":"Which"}
+{"time":1580,"type":"word","start":19,"end":21,"value":"of"}
+{"time":1655,"type":"word","start":22,"end":25,"value":"the"}
+{"time":1730,"type":"word","start":26,"end":35,"value":"following"}
+{"time":2180,"type":"word","start":36,"end":48,"value":"preventative"}
+{"time":2655,"type":"word","start":49,"end":57,"value":"measures"}
+{"time":3080,"type":"word","start":58,"end":61,"value":"can"}
+{"time":3230,"type":"word","start":62,"end":74,"value":"grandparents"}
+{"time":3830,"type":"word","start":75,"end":79,"value":"take"}
+{"time":4042,"type":"word","start":80,"end":82,"value":"to"}
+{"time":4192,"type":"word","start":83,"end":88,"value":"avoid"}
+{"time":4517,"type":"word","start":89,"end":96,"value":"falling"}
+{"time":4892,"type":"word","start":97,"end":101,"value":"into"}
+{"time":5055,"type":"word","start":102,"end":113,"value":"grandparent"}
+{"time":5592,"type":"word","start":114,"end":119,"value":"scams"}
+{"time":6560,"type":"sentence","start":121,"end":143,"value":"Select all that apply."}
+{"time":6585,"type":"word","start":121,"end":127,"value":"Select"}
+{"time":6985,"type":"word","start":128,"end":131,"value":"all"}
+{"time":7135,"type":"word","start":132,"end":136,"value":"that"}
+{"time":7247,"type":"word","start":137,"end":142,"value":"apply"}
+{"time":8452,"type":"sentence","start":145,"end":209,"value":"A. Avoid sharing personal information on social media platforms."}
+{"time":8477,"type":"word","start":145,"end":147,"value":"A."}
+{"time":8652,"type":"word","start":148,"end":153,"value":"Avoid"}
+{"time":8989,"type":"word","start":154,"end":161,"value":"sharing"}
+{"time":9352,"type":"word","start":162,"end":170,"value":"personal"}
+{"time":9789,"type":"word","start":171,"end":182,"value":"information"}
+{"time":10302,"type":"word","start":183,"end":185,"value":"on"}
+{"time":10439,"type":"word","start":186,"end":192,"value":"social"}
+{"time":10764,"type":"word","start":193,"end":198,"value":"media"}
+{"time":11114,"type":"word","start":199,"end":208,"value":"platforms"}
+{"time":12282,"type":"sentence","start":210,"end":255,"value":"B. Refuse to communicate with anyone calling."}
+{"time":12307,"type":"word","start":210,"end":212,"value":"B."}
+{"time":12457,"type":"word","start":213,"end":219,"value":"Refuse"}
+{"time":12944,"type":"word","start":220,"end":222,"value":"to"}
+{"time":13044,"type":"word","start":223,"end":234,"value":"communicate"}
+{"time":13557,"type":"word","start":235,"end":239,"value":"with"}
+{"time":13719,"type":"word","start":240,"end":246,"value":"anyone"}
+{"time":14019,"type":"word","start":247,"end":254,"value":"calling"}
+{"time":14949,"type":"sentence","start":256,"end":331,"value":"C. Establish a secret codeword with family members for caller verification."}
+{"time":14974,"type":"word","start":256,"end":258,"value":"C."}
+{"time":15249,"type":"word","start":259,"end":268,"value":"Establish"}
+{"time":15787,"type":"word","start":269,"end":270,"value":"a"}
+{"time":15824,"type":"word","start":271,"end":277,"value":"secret"}
+{"time":16224,"type":"word","start":278,"end":286,"value":"codeword"}
+{"time":16687,"type":"word","start":287,"end":291,"value":"with"}
+{"time":16837,"type":"word","start":292,"end":298,"value":"family"}
+{"time":17187,"type":"word","start":299,"end":306,"value":"members"}
+{"time":17587,"type":"word","start":307,"end":310,"value":"for"}
+{"time":17699,"type":"word","start":311,"end":317,"value":"caller"}
+{"time":18012,"type":"word","start":318,"end":330,"value":"verification"}
+{"time":19517,"type":"sentence","start":333,"end":410,"value":"D. Learn the common tactics and tricks used by scammers in grandparent scams."}
+{"time":19542,"type":"word","start":333,"end":335,"value":"D."}
+{"time":19742,"type":"word","start":336,"end":341,"value":"Learn"}
+{"time":19992,"type":"word","start":342,"end":345,"value":"the"}
+{"time":20054,"type":"word","start":346,"end":352,"value":"common"}
+{"time":20417,"type":"word","start":353,"end":360,"value":"tactics"}
+{"time":20929,"type":"word","start":361,"end":364,"value":"and"}
+{"time":21042,"type":"word","start":365,"end":371,"value":"tricks"}
+{"time":21342,"type":"word","start":372,"end":376,"value":"used"}
+{"time":21604,"type":"word","start":377,"end":379,"value":"by"}
+{"time":21754,"type":"word","start":380,"end":388,"value":"scammers"}
+{"time":22279,"type":"word","start":389,"end":391,"value":"in"}
+{"time":22367,"type":"word","start":392,"end":403,"value":"grandparent"}
+{"time":22879,"type":"word","start":404,"end":409,"value":"scams"}

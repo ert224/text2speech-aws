@@ -1,34 +1,33 @@
-{"time":0,"type":"sentence","start":1,"end":52,"value":"For the next 10 \nminutes we are going to focus on ."}
+{"time":0,"type":"sentence","start":1,"end":50,"value":"For the next 5\nminutes we are going to focus on ."}
 {"time":137,"type":"word","start":1,"end":4,"value":"For"}
 {"time":300,"type":"word","start":5,"end":8,"value":"the"}
 {"time":375,"type":"word","start":9,"end":13,"value":"next"}
-{"time":687,"type":"word","start":14,"end":16,"value":"10"}
-{"time":937,"type":"word","start":18,"end":25,"value":"minutes"}
-{"time":1312,"type":"word","start":26,"end":28,"value":"we"}
-{"time":1437,"type":"word","start":29,"end":32,"value":"are"}
-{"time":1562,"type":"word","start":33,"end":38,"value":"going"}
-{"time":1750,"type":"word","start":39,"end":41,"value":"to"}
-{"time":1850,"type":"word","start":42,"end":47,"value":"focus"}
-{"time":2275,"type":"word","start":48,"end":50,"value":"on"}
-{"time":2992,"type":"sentence","start":54,"end":107,"value":"Finding out your Grandparent Scam Resilience Score! ."}
-{"time":3180,"type":"word","start":54,"end":61,"value":"Finding"}
-{"time":3555,"type":"word","start":62,"end":65,"value":"out"}
-{"time":3805,"type":"word","start":66,"end":70,"value":"your"}
-{"time":3930,"type":"word","start":71,"end":82,"value":"Grandparent"}
-{"time":4617,"type":"word","start":83,"end":87,"value":"Scam"}
-{"time":4930,"type":"word","start":88,"end":98,"value":"Resilience"}
-{"time":5505,"type":"word","start":99,"end":104,"value":"Score"}
-{"time":6410,"type":"sentence","start":108,"end":187,"value":"Take this to assess your understanding of grandparent scams and earn a badge! ."}
-{"time":6597,"type":"word","start":108,"end":112,"value":"Take"}
-{"time":6785,"type":"word","start":113,"end":117,"value":"this"}
-{"time":6972,"type":"word","start":118,"end":120,"value":"to"}
-{"time":7122,"type":"word","start":121,"end":127,"value":"assess"}
-{"time":7472,"type":"word","start":128,"end":132,"value":"your"}
-{"time":7610,"type":"word","start":133,"end":146,"value":"understanding"}
-{"time":8285,"type":"word","start":147,"end":149,"value":"of"}
-{"time":8497,"type":"word","start":150,"end":161,"value":"grandparent"}
-{"time":9097,"type":"word","start":162,"end":167,"value":"scams"}
-{"time":9660,"type":"word","start":168,"end":171,"value":"and"}
-{"time":9785,"type":"word","start":172,"end":176,"value":"earn"}
-{"time":9910,"type":"word","start":177,"end":178,"value":"a"}
-{"time":9997,"type":"word","start":179,"end":184,"value":"badge"}
+{"time":687,"type":"word","start":14,"end":15,"value":"5"}
+{"time":1000,"type":"word","start":16,"end":23,"value":"minutes"}
+{"time":1312,"type":"word","start":24,"end":26,"value":"we"}
+{"time":1462,"type":"word","start":27,"end":30,"value":"are"}
+{"time":1562,"type":"word","start":31,"end":36,"value":"going"}
+{"time":1775,"type":"word","start":37,"end":39,"value":"to"}
+{"time":1875,"type":"word","start":40,"end":45,"value":"focus"}
+{"time":2387,"type":"word","start":46,"end":48,"value":"on"}
+{"time":3055,"type":"sentence","start":52,"end":105,"value":"Finding out your Grandparent Scam Resilience Score! ."}
+{"time":3242,"type":"word","start":52,"end":59,"value":"Finding"}
+{"time":3617,"type":"word","start":60,"end":63,"value":"out"}
+{"time":3867,"type":"word","start":64,"end":68,"value":"your"}
+{"time":3992,"type":"word","start":69,"end":80,"value":"Grandparent"}
+{"time":4680,"type":"word","start":81,"end":85,"value":"Scam"}
+{"time":4992,"type":"word","start":86,"end":96,"value":"Resilience"}
+{"time":5567,"type":"word","start":97,"end":102,"value":"Score"}
+{"time":6472,"type":"sentence","start":106,"end":177,"value":"Take this to assess your current knowledge and earn your first badge! ."}
+{"time":6660,"type":"word","start":106,"end":110,"value":"Take"}
+{"time":6847,"type":"word","start":111,"end":115,"value":"this"}
+{"time":7035,"type":"word","start":116,"end":118,"value":"to"}
+{"time":7185,"type":"word","start":119,"end":125,"value":"assess"}
+{"time":7535,"type":"word","start":126,"end":130,"value":"your"}
+{"time":7722,"type":"word","start":131,"end":138,"value":"current"}
+{"time":8097,"type":"word","start":139,"end":148,"value":"knowledge"}
+{"time":8510,"type":"word","start":149,"end":152,"value":"and"}
+{"time":8660,"type":"word","start":153,"end":157,"value":"earn"}
+{"time":8785,"type":"word","start":158,"end":162,"value":"your"}
+{"time":8935,"type":"word","start":163,"end":168,"value":"first"}
+{"time":9260,"type":"word","start":169,"end":174,"value":"badge"}

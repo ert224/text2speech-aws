@@ -1,48 +1,39 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 3."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":425,"type":"word","start":10,"end":11,"value":"3"}
-{"time":1292,"type":"sentence","start":13,"end":92,"value":"When are individuals most vulnerable to being targeted by grandparent scammers?"}
-{"time":1317,"type":"word","start":13,"end":17,"value":"When"}
-{"time":1455,"type":"word","start":18,"end":21,"value":"are"}
-{"time":1592,"type":"word","start":22,"end":33,"value":"individuals"}
-{"time":2217,"type":"word","start":34,"end":38,"value":"most"}
-{"time":2492,"type":"word","start":39,"end":49,"value":"vulnerable"}
-{"time":3030,"type":"word","start":50,"end":52,"value":"to"}
-{"time":3130,"type":"word","start":53,"end":58,"value":"being"}
-{"time":3392,"type":"word","start":59,"end":67,"value":"targeted"}
-{"time":3842,"type":"word","start":68,"end":70,"value":"by"}
-{"time":3992,"type":"word","start":71,"end":82,"value":"grandparent"}
-{"time":4542,"type":"word","start":83,"end":91,"value":"scammers"}
-{"time":5535,"type":"sentence","start":93,"end":115,"value":"Select all that apply."}
-{"time":5560,"type":"word","start":93,"end":99,"value":"Select"}
-{"time":5960,"type":"word","start":100,"end":103,"value":"all"}
-{"time":6110,"type":"word","start":104,"end":108,"value":"that"}
-{"time":6222,"type":"word","start":109,"end":114,"value":"apply"}
-{"time":7177,"type":"sentence","start":116,"end":133,"value":"A. Late at night."}
-{"time":7202,"type":"word","start":116,"end":118,"value":"A."}
-{"time":7340,"type":"word","start":119,"end":123,"value":"Late"}
-{"time":7565,"type":"word","start":124,"end":126,"value":"at"}
-{"time":7665,"type":"word","start":127,"end":132,"value":"night"}
-{"time":8470,"type":"sentence","start":134,"end":166,"value":"B. During typical working hours."}
-{"time":8495,"type":"word","start":134,"end":136,"value":"B."}
-{"time":8657,"type":"word","start":137,"end":143,"value":"During"}
-{"time":8945,"type":"word","start":144,"end":151,"value":"typical"}
-{"time":9307,"type":"word","start":152,"end":159,"value":"working"}
-{"time":9657,"type":"word","start":160,"end":165,"value":"hours"}
-{"time":10550,"type":"sentence","start":167,"end":211,"value":"C. During family gatherings or celebrations."}
-{"time":10575,"type":"word","start":167,"end":169,"value":"C."}
-{"time":10875,"type":"word","start":170,"end":176,"value":"During"}
-{"time":11162,"type":"word","start":177,"end":183,"value":"family"}
-{"time":11512,"type":"word","start":184,"end":194,"value":"gatherings"}
-{"time":12062,"type":"word","start":195,"end":197,"value":"or"}
-{"time":12137,"type":"word","start":198,"end":210,"value":"celebrations"}
-{"time":13430,"type":"sentence","start":212,"end":268,"value":"D. During times of natural disasters or adverse weather."}
-{"time":13455,"type":"word","start":212,"end":214,"value":"D."}
-{"time":13680,"type":"word","start":215,"end":221,"value":"During"}
-{"time":13980,"type":"word","start":222,"end":227,"value":"times"}
-{"time":14355,"type":"word","start":228,"end":230,"value":"of"}
-{"time":14442,"type":"word","start":231,"end":238,"value":"natural"}
-{"time":14842,"type":"word","start":239,"end":248,"value":"disasters"}
-{"time":15442,"type":"word","start":249,"end":251,"value":"or"}
-{"time":15605,"type":"word","start":252,"end":259,"value":"adverse"}
-{"time":15955,"type":"word","start":260,"end":267,"value":"weather"}
+{"time":1292,"type":"sentence","start":13,"end":101,"value":"Which techniques are often used when a grandparent scammer impersonates your grandchild?"}
+{"time":1317,"type":"word","start":13,"end":18,"value":"Which"}
+{"time":1555,"type":"word","start":19,"end":29,"value":"techniques"}
+{"time":2080,"type":"word","start":30,"end":33,"value":"are"}
+{"time":2217,"type":"word","start":34,"end":39,"value":"often"}
+{"time":2492,"type":"word","start":40,"end":44,"value":"used"}
+{"time":2805,"type":"word","start":45,"end":49,"value":"when"}
+{"time":2942,"type":"word","start":50,"end":51,"value":"a"}
+{"time":2992,"type":"word","start":52,"end":63,"value":"grandparent"}
+{"time":3542,"type":"word","start":64,"end":71,"value":"scammer"}
+{"time":3955,"type":"word","start":72,"end":84,"value":"impersonates"}
+{"time":4555,"type":"word","start":85,"end":89,"value":"your"}
+{"time":4617,"type":"word","start":90,"end":100,"value":"grandchild"}
+{"time":5722,"type":"sentence","start":102,"end":124,"value":"Select all that apply."}
+{"time":5747,"type":"word","start":102,"end":108,"value":"Select"}
+{"time":6147,"type":"word","start":109,"end":112,"value":"all"}
+{"time":6297,"type":"word","start":113,"end":117,"value":"that"}
+{"time":6410,"type":"word","start":118,"end":123,"value":"apply"}
+{"time":7365,"type":"sentence","start":126,"end":147,"value":"A. Spoofed caller ID."}
+{"time":7390,"type":"word","start":126,"end":128,"value":"A."}
+{"time":7552,"type":"word","start":129,"end":136,"value":"Spoofed"}
+{"time":7927,"type":"word","start":137,"end":143,"value":"caller"}
+{"time":8277,"type":"word","start":144,"end":146,"value":"ID"}
+{"time":9257,"type":"sentence","start":148,"end":178,"value":"B. Forged handwritten letters."}
+{"time":9282,"type":"word","start":148,"end":150,"value":"B."}
+{"time":9470,"type":"word","start":151,"end":157,"value":"Forged"}
+{"time":9870,"type":"word","start":158,"end":169,"value":"handwritten"}
+{"time":10270,"type":"word","start":170,"end":177,"value":"letters"}
+{"time":11187,"type":"sentence","start":179,"end":204,"value":"C. Face-to-face meetings."}
+{"time":11212,"type":"word","start":179,"end":181,"value":"C."}
+{"time":11462,"type":"word","start":182,"end":194,"value":"Face-to-face"}
+{"time":12112,"type":"word","start":195,"end":203,"value":"meetings"}
+{"time":13055,"type":"sentence","start":205,"end":224,"value":"D. Distorted voice."}
+{"time":13080,"type":"word","start":205,"end":207,"value":"D."}
+{"time":13267,"type":"word","start":208,"end":217,"value":"Distorted"}
+{"time":13755,"type":"word","start":218,"end":223,"value":"voice"}

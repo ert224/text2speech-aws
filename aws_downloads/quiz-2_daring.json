@@ -1,60 +1,38 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 2."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":500,"type":"word","start":10,"end":11,"value":"2"}
-{"time":1330,"type":"sentence","start":13,"end":102,"value":"What are some common techniques scammers use to pressure targets into sending them money?"}
-{"time":1355,"type":"word","start":13,"end":17,"value":"What"}
-{"time":1505,"type":"word","start":18,"end":21,"value":"are"}
-{"time":1605,"type":"word","start":22,"end":26,"value":"some"}
-{"time":1855,"type":"word","start":27,"end":33,"value":"common"}
-{"time":2217,"type":"word","start":34,"end":44,"value":"techniques"}
-{"time":2705,"type":"word","start":45,"end":53,"value":"scammers"}
-{"time":3217,"type":"word","start":54,"end":57,"value":"use"}
-{"time":3467,"type":"word","start":58,"end":60,"value":"to"}
-{"time":3555,"type":"word","start":61,"end":69,"value":"pressure"}
-{"time":3930,"type":"word","start":70,"end":77,"value":"targets"}
-{"time":4467,"type":"word","start":78,"end":82,"value":"into"}
-{"time":4680,"type":"word","start":83,"end":90,"value":"sending"}
-{"time":5055,"type":"word","start":91,"end":95,"value":"them"}
-{"time":5192,"type":"word","start":96,"end":101,"value":"money"}
-{"time":6072,"type":"sentence","start":103,"end":125,"value":"Select all that apply."}
-{"time":6097,"type":"word","start":103,"end":109,"value":"Select"}
-{"time":6572,"type":"word","start":110,"end":113,"value":"all"}
-{"time":6822,"type":"word","start":114,"end":118,"value":"that"}
-{"time":7022,"type":"word","start":119,"end":124,"value":"apply"}
-{"time":8002,"type":"sentence","start":128,"end":159,"value":"A. Crying and begging for help."}
-{"time":8027,"type":"word","start":128,"end":130,"value":"A."}
-{"time":8165,"type":"word","start":131,"end":137,"value":"Crying"}
-{"time":8677,"type":"word","start":138,"end":141,"value":"and"}
-{"time":8852,"type":"word","start":142,"end":149,"value":"begging"}
-{"time":9190,"type":"word","start":150,"end":153,"value":"for"}
-{"time":9352,"type":"word","start":154,"end":158,"value":"help"}
-{"time":10182,"type":"sentence","start":160,"end":221,"value":"B. Promising rewards or prizes if you send money immediately."}
-{"time":10207,"type":"word","start":160,"end":162,"value":"B."}
-{"time":10345,"type":"word","start":163,"end":172,"value":"Promising"}
-{"time":10870,"type":"word","start":173,"end":180,"value":"rewards"}
-{"time":11382,"type":"word","start":181,"end":183,"value":"or"}
-{"time":11470,"type":"word","start":184,"end":190,"value":"prizes"}
-{"time":12045,"type":"word","start":191,"end":193,"value":"if"}
-{"time":12157,"type":"word","start":194,"end":197,"value":"you"}
-{"time":12232,"type":"word","start":198,"end":202,"value":"send"}
-{"time":12520,"type":"word","start":203,"end":208,"value":"money"}
-{"time":12807,"type":"word","start":209,"end":220,"value":"immediately"}
-{"time":13937,"type":"sentence","start":223,"end":273,"value":"C. Sounding frightened and in an urgent situation."}
-{"time":13962,"type":"word","start":223,"end":225,"value":"C."}
-{"time":14237,"type":"word","start":226,"end":234,"value":"Sounding"}
-{"time":14675,"type":"word","start":235,"end":245,"value":"frightened"}
-{"time":15200,"type":"word","start":246,"end":249,"value":"and"}
-{"time":15350,"type":"word","start":250,"end":252,"value":"in"}
-{"time":15500,"type":"word","start":253,"end":255,"value":"an"}
-{"time":15650,"type":"word","start":256,"end":262,"value":"urgent"}
-{"time":16012,"type":"word","start":263,"end":272,"value":"situation"}
-{"time":17305,"type":"sentence","start":274,"end":336,"value":"D. Threatening that your grandchild will face serious charges."}
-{"time":17330,"type":"word","start":274,"end":276,"value":"D."}
-{"time":17567,"type":"word","start":277,"end":288,"value":"Threatening"}
-{"time":18042,"type":"word","start":289,"end":293,"value":"that"}
-{"time":18230,"type":"word","start":294,"end":298,"value":"your"}
-{"time":18355,"type":"word","start":299,"end":309,"value":"grandchild"}
-{"time":19092,"type":"word","start":310,"end":314,"value":"will"}
-{"time":19217,"type":"word","start":315,"end":319,"value":"face"}
-{"time":19517,"type":"word","start":320,"end":327,"value":"serious"}
-{"time":19967,"type":"word","start":328,"end":335,"value":"charges"}
+{"time":1330,"type":"sentence","start":13,"end":94,"value":"Which of the following are consequences of falling victim to a grandparent scams?"}
+{"time":1355,"type":"word","start":13,"end":18,"value":"Which"}
+{"time":1617,"type":"word","start":19,"end":21,"value":"of"}
+{"time":1705,"type":"word","start":22,"end":25,"value":"the"}
+{"time":1780,"type":"word","start":26,"end":35,"value":"following"}
+{"time":2242,"type":"word","start":36,"end":39,"value":"are"}
+{"time":2405,"type":"word","start":40,"end":52,"value":"consequences"}
+{"time":3317,"type":"word","start":53,"end":55,"value":"of"}
+{"time":3405,"type":"word","start":56,"end":63,"value":"falling"}
+{"time":3817,"type":"word","start":64,"end":70,"value":"victim"}
+{"time":4192,"type":"word","start":71,"end":73,"value":"to"}
+{"time":4392,"type":"word","start":74,"end":75,"value":"a"}
+{"time":4442,"type":"word","start":76,"end":87,"value":"grandparent"}
+{"time":5105,"type":"word","start":88,"end":93,"value":"scams"}
+{"time":6222,"type":"sentence","start":95,"end":117,"value":"Select all that apply."}
+{"time":6247,"type":"word","start":95,"end":101,"value":"Select"}
+{"time":6722,"type":"word","start":102,"end":105,"value":"all"}
+{"time":6972,"type":"word","start":106,"end":110,"value":"that"}
+{"time":7172,"type":"word","start":111,"end":116,"value":"apply"}
+{"time":8152,"type":"sentence","start":118,"end":136,"value":"A. Financial gain."}
+{"time":8177,"type":"word","start":118,"end":120,"value":"A."}
+{"time":8327,"type":"word","start":121,"end":130,"value":"Financial"}
+{"time":8915,"type":"word","start":131,"end":135,"value":"gain"}
+{"time":9832,"type":"sentence","start":137,"end":159,"value":"B. Emotional distress."}
+{"time":9857,"type":"word","start":137,"end":139,"value":"B."}
+{"time":10070,"type":"word","start":140,"end":149,"value":"Emotional"}
+{"time":10582,"type":"word","start":150,"end":158,"value":"distress"}
+{"time":11800,"type":"sentence","start":160,"end":178,"value":"C. Financial loss."}
+{"time":11825,"type":"word","start":160,"end":162,"value":"C."}
+{"time":12125,"type":"word","start":163,"end":172,"value":"Financial"}
+{"time":12687,"type":"word","start":173,"end":177,"value":"loss"}
+{"time":13705,"type":"sentence","start":179,"end":204,"value":"D. Emotional humiliation."}
+{"time":13730,"type":"word","start":179,"end":181,"value":"D."}
+{"time":13992,"type":"word","start":182,"end":191,"value":"Emotional"}
+{"time":14505,"type":"word","start":192,"end":203,"value":"humiliation"}

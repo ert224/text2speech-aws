@@ -1,57 +1,42 @@
 {"time":0,"type":"sentence","start":1,"end":12,"value":"Question 1."}
 {"time":25,"type":"word","start":1,"end":9,"value":"Question"}
 {"time":450,"type":"word","start":10,"end":11,"value":"1"}
-{"time":1242,"type":"sentence","start":13,"end":91,"value":"When you receive a call, which scenarios could indicate a potential scam call?"}
-{"time":1267,"type":"word","start":13,"end":17,"value":"When"}
-{"time":1430,"type":"word","start":18,"end":21,"value":"you"}
-{"time":1530,"type":"word","start":22,"end":29,"value":"receive"}
-{"time":1867,"type":"word","start":30,"end":31,"value":"a"}
-{"time":1917,"type":"word","start":32,"end":36,"value":"call"}
-{"time":2517,"type":"word","start":38,"end":43,"value":"which"}
-{"time":2692,"type":"word","start":44,"end":53,"value":"scenarios"}
-{"time":3292,"type":"word","start":54,"end":59,"value":"could"}
-{"time":3442,"type":"word","start":60,"end":68,"value":"indicate"}
-{"time":3792,"type":"word","start":69,"end":70,"value":"a"}
-{"time":3830,"type":"word","start":71,"end":80,"value":"potential"}
-{"time":4292,"type":"word","start":81,"end":85,"value":"scam"}
-{"time":4605,"type":"word","start":86,"end":90,"value":"call"}
-{"time":5447,"type":"sentence","start":92,"end":114,"value":"Select all that apply."}
-{"time":5472,"type":"word","start":92,"end":98,"value":"Select"}
-{"time":5872,"type":"word","start":99,"end":102,"value":"all"}
-{"time":6022,"type":"word","start":103,"end":107,"value":"that"}
-{"time":6135,"type":"word","start":108,"end":113,"value":"apply"}
-{"time":7090,"type":"sentence","start":116,"end":137,"value":"A. An unknown number."}
-{"time":7115,"type":"word","start":116,"end":117,"value":"A"}
-{"time":7652,"type":"word","start":119,"end":121,"value":"An"}
-{"time":7777,"type":"word","start":122,"end":129,"value":"unknown"}
-{"time":8140,"type":"word","start":130,"end":136,"value":"number"}
-{"time":9007,"type":"sentence","start":138,"end":187,"value":"B. Call appears to be from the Police Department."}
-{"time":9032,"type":"word","start":138,"end":140,"value":"B."}
-{"time":9182,"type":"word","start":141,"end":145,"value":"Call"}
-{"time":9457,"type":"word","start":146,"end":153,"value":"appears"}
-{"time":9832,"type":"word","start":154,"end":156,"value":"to"}
-{"time":9907,"type":"word","start":157,"end":159,"value":"be"}
-{"time":10057,"type":"word","start":160,"end":164,"value":"from"}
-{"time":10232,"type":"word","start":165,"end":168,"value":"the"}
-{"time":10307,"type":"word","start":169,"end":175,"value":"Police"}
-{"time":10632,"type":"word","start":176,"end":186,"value":"Department"}
-{"time":11600,"type":"sentence","start":188,"end":240,"value":"C. Call appears to be from a law enforcement agency."}
-{"time":11625,"type":"word","start":188,"end":190,"value":"C."}
-{"time":11900,"type":"word","start":191,"end":195,"value":"Call"}
-{"time":12175,"type":"word","start":196,"end":203,"value":"appears"}
-{"time":12550,"type":"word","start":204,"end":206,"value":"to"}
-{"time":12625,"type":"word","start":207,"end":209,"value":"be"}
-{"time":12775,"type":"word","start":210,"end":214,"value":"from"}
-{"time":12962,"type":"word","start":215,"end":216,"value":"a"}
-{"time":13012,"type":"word","start":217,"end":220,"value":"law"}
-{"time":13287,"type":"word","start":221,"end":232,"value":"enforcement"}
-{"time":13750,"type":"word","start":233,"end":239,"value":"agency"}
-{"time":14792,"type":"sentence","start":241,"end":284,"value":"D. Call appears to be from your grandchild."}
-{"time":14817,"type":"word","start":241,"end":243,"value":"D."}
-{"time":15017,"type":"word","start":244,"end":248,"value":"Call"}
-{"time":15280,"type":"word","start":249,"end":256,"value":"appears"}
-{"time":15642,"type":"word","start":257,"end":259,"value":"to"}
-{"time":15717,"type":"word","start":260,"end":262,"value":"be"}
-{"time":15842,"type":"word","start":263,"end":267,"value":"from"}
-{"time":16017,"type":"word","start":268,"end":272,"value":"your"}
-{"time":16105,"type":"word","start":273,"end":283,"value":"grandchild"}
+{"time":1242,"type":"sentence","start":13,"end":85,"value":"In grandparent scams, who does the scammer typically pretend to be a be?"}
+{"time":1267,"type":"word","start":13,"end":15,"value":"In"}
+{"time":1405,"type":"word","start":16,"end":27,"value":"grandparent"}
+{"time":1942,"type":"word","start":28,"end":33,"value":"scams"}
+{"time":2655,"type":"word","start":35,"end":38,"value":"who"}
+{"time":2767,"type":"word","start":39,"end":43,"value":"does"}
+{"time":2905,"type":"word","start":44,"end":47,"value":"the"}
+{"time":2992,"type":"word","start":48,"end":55,"value":"scammer"}
+{"time":3392,"type":"word","start":56,"end":65,"value":"typically"}
+{"time":3817,"type":"word","start":66,"end":73,"value":"pretend"}
+{"time":4205,"type":"word","start":74,"end":76,"value":"to"}
+{"time":4267,"type":"word","start":77,"end":79,"value":"be"}
+{"time":4455,"type":"word","start":80,"end":81,"value":"a"}
+{"time":4555,"type":"word","start":82,"end":84,"value":"be"}
+{"time":5360,"type":"sentence","start":86,"end":108,"value":"Select all that apply."}
+{"time":5385,"type":"word","start":86,"end":92,"value":"Select"}
+{"time":5785,"type":"word","start":93,"end":96,"value":"all"}
+{"time":5935,"type":"word","start":97,"end":101,"value":"that"}
+{"time":6047,"type":"word","start":102,"end":107,"value":"apply"}
+{"time":7002,"type":"sentence","start":109,"end":123,"value":"A. Grandchild."}
+{"time":7027,"type":"word","start":109,"end":111,"value":"A."}
+{"time":7152,"type":"word","start":112,"end":122,"value":"Grandchild"}
+{"time":8320,"type":"sentence","start":124,"end":134,"value":"B. Lawyer."}
+{"time":8345,"type":"word","start":124,"end":126,"value":"B."}
+{"time":8507,"type":"word","start":127,"end":133,"value":"Lawyer"}
+{"time":9437,"type":"sentence","start":135,"end":182,"value":"C. Other loved ones, such as a nephew or niece."}
+{"time":9462,"type":"word","start":135,"end":137,"value":"C."}
+{"time":9762,"type":"word","start":138,"end":143,"value":"Other"}
+{"time":9925,"type":"word","start":144,"end":149,"value":"loved"}
+{"time":10187,"type":"word","start":150,"end":154,"value":"ones"}
+{"time":10762,"type":"word","start":156,"end":160,"value":"such"}
+{"time":11025,"type":"word","start":161,"end":163,"value":"as"}
+{"time":11150,"type":"word","start":164,"end":165,"value":"a"}
+{"time":11187,"type":"word","start":166,"end":172,"value":"nephew"}
+{"time":11637,"type":"word","start":173,"end":175,"value":"or"}
+{"time":11737,"type":"word","start":176,"end":181,"value":"niece"}
+{"time":12592,"type":"sentence","start":183,"end":195,"value":"D. Neighbor."}
+{"time":12617,"type":"word","start":183,"end":185,"value":"D."}
+{"time":12780,"type":"word","start":186,"end":194,"value":"Neighbor"}
