@@ -1,35 +1,39 @@
-{"time":0,"type":"sentence","start":1,"end":19,"value":"Congratulations! ."}
-{"time":137,"type":"word","start":1,"end":16,"value":"Congratulations"}
-{"time":1730,"type":"sentence","start":20,"end":79,"value":"You've completed the Challenge and earned a bronze badge! ."}
-{"time":1867,"type":"word","start":20,"end":26,"value":"You've"}
-{"time":2042,"type":"word","start":27,"end":36,"value":"completed"}
-{"time":2567,"type":"word","start":37,"end":40,"value":"the"}
-{"time":2730,"type":"word","start":41,"end":50,"value":"Challenge"}
-{"time":3167,"type":"word","start":51,"end":54,"value":"and"}
-{"time":3367,"type":"word","start":55,"end":61,"value":"earned"}
-{"time":3542,"type":"word","start":62,"end":63,"value":"a"}
-{"time":3605,"type":"word","start":64,"end":70,"value":"bronze"}
-{"time":4005,"type":"word","start":71,"end":76,"value":"badge"}
-{"time":4922,"type":"sentence","start":81,"end":142,"value":"You have an Grandparent Scam Resilience score of  out of 100."}
+{"time":0,"type":"sentence","start":2,"end":20,"value":"Congratulations! ."}
+{"time":137,"type":"word","start":2,"end":17,"value":"Congratulations"}
+{"time":1730,"type":"sentence","start":21,"end":80,"value":"You've completed the Challenge and earned a bronze badge! ."}
+{"time":1867,"type":"word","start":21,"end":27,"value":"You've"}
+{"time":2042,"type":"word","start":28,"end":37,"value":"completed"}
+{"time":2567,"type":"word","start":38,"end":41,"value":"the"}
+{"time":2730,"type":"word","start":42,"end":51,"value":"Challenge"}
+{"time":3167,"type":"word","start":52,"end":55,"value":"and"}
+{"time":3367,"type":"word","start":56,"end":62,"value":"earned"}
+{"time":3542,"type":"word","start":63,"end":64,"value":"a"}
+{"time":3605,"type":"word","start":65,"end":71,"value":"bronze"}
+{"time":4005,"type":"word","start":72,"end":77,"value":"badge"}
+{"time":4922,"type":"sentence","start":81,"end":131,"value":"You have a Grandparent Scam Resilience score of  ."}
 {"time":5110,"type":"word","start":81,"end":84,"value":"You"}
 {"time":5172,"type":"word","start":85,"end":89,"value":"have"}
-{"time":5422,"type":"word","start":90,"end":92,"value":"an"}
-{"time":5547,"type":"word","start":93,"end":104,"value":"Grandparent"}
-{"time":6235,"type":"word","start":105,"end":109,"value":"Scam"}
-{"time":6622,"type":"word","start":110,"end":120,"value":"Resilience"}
-{"time":7185,"type":"word","start":121,"end":126,"value":"score"}
-{"time":7485,"type":"word","start":127,"end":129,"value":"of"}
-{"time":7610,"type":"word","start":131,"end":134,"value":"out"}
-{"time":7747,"type":"word","start":135,"end":137,"value":"of"}
-{"time":7872,"type":"word","start":138,"end":141,"value":"100"}
-{"time":8952,"type":"sentence","start":143,"end":200,"value":"Next, chat with your Agent to reflect on your experience."}
-{"time":9140,"type":"word","start":143,"end":147,"value":"Next"}
-{"time":9715,"type":"word","start":149,"end":153,"value":"chat"}
-{"time":9990,"type":"word","start":154,"end":158,"value":"with"}
-{"time":10140,"type":"word","start":159,"end":163,"value":"your"}
-{"time":10327,"type":"word","start":164,"end":169,"value":"Agent"}
-{"time":10665,"type":"word","start":170,"end":172,"value":"to"}
-{"time":10790,"type":"word","start":173,"end":180,"value":"reflect"}
-{"time":11215,"type":"word","start":181,"end":183,"value":"on"}
-{"time":11340,"type":"word","start":184,"end":188,"value":"your"}
-{"time":11452,"type":"word","start":189,"end":199,"value":"experience"}
+{"time":5422,"type":"word","start":90,"end":91,"value":"a"}
+{"time":5485,"type":"word","start":92,"end":103,"value":"Grandparent"}
+{"time":6172,"type":"word","start":104,"end":108,"value":"Scam"}
+{"time":6485,"type":"word","start":109,"end":119,"value":"Resilience"}
+{"time":7047,"type":"word","start":120,"end":125,"value":"score"}
+{"time":7385,"type":"word","start":126,"end":128,"value":"of"}
+{"time":8090,"type":"sentence","start":132,"end":143,"value":"out of 100."}
+{"time":8277,"type":"word","start":132,"end":135,"value":"out"}
+{"time":8402,"type":"word","start":136,"end":138,"value":"of"}
+{"time":8540,"type":"word","start":139,"end":142,"value":"100"}
+{"time":9657,"type":"sentence","start":144,"end":220,"value":"To build your resilience and earn more badges, continue to the next section."}
+{"time":9795,"type":"word","start":144,"end":146,"value":"To"}
+{"time":9907,"type":"word","start":147,"end":152,"value":"build"}
+{"time":10157,"type":"word","start":153,"end":157,"value":"your"}
+{"time":10282,"type":"word","start":158,"end":168,"value":"resilience"}
+{"time":10920,"type":"word","start":169,"end":172,"value":"and"}
+{"time":11095,"type":"word","start":173,"end":177,"value":"earn"}
+{"time":11220,"type":"word","start":178,"end":182,"value":"more"}
+{"time":11470,"type":"word","start":183,"end":189,"value":"badges"}
+{"time":12120,"type":"word","start":191,"end":199,"value":"continue"}
+{"time":12657,"type":"word","start":200,"end":202,"value":"to"}
+{"time":12782,"type":"word","start":203,"end":206,"value":"the"}
+{"time":12870,"type":"word","start":207,"end":211,"value":"next"}
+{"time":13157,"type":"word","start":212,"end":219,"value":"section"}
